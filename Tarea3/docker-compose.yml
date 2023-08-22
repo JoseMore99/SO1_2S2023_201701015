@@ -1,0 +1,29 @@
+version: '3'
+services:
+  base:
+    image: "mysql"
+    container_name: 'MYSQL_Base'
+    environment:
+      MYSQL_ROOT_PASSWORD: secret
+    volumes:
+      - base_mysql:/var/lib/mysql      
+    ports:
+      - "3306:3306"
+  backend:
+    image: "t3apigo"
+    container_name: 'Backendgo'
+    environment:
+      DB_USER: root
+      DB_PASSWORD: secret
+      DB_HOST: MYSQL_Base
+      DB_PORT: 3306
+      DB_NAME: biblioteca
+    ports:
+      - "8080:8080"
+  frontend:
+    image: "t3front"
+    container_name: "FrontReact"
+    ports:
+      - "3000:3000"
+volumes:
+  base_mysql: 
