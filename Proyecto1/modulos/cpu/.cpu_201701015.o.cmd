@@ -1,8 +1,8 @@
-cmd_/home/jose/Documentos/SO1_2S2023_201701015/Tarea4/modulo/ram_201701015.o := gcc -Wp,-MMD,/home/jose/Documentos/SO1_2S2023_201701015/Tarea4/modulo/.ram_201701015.o.d -nostdinc -I./arch/x86/include -I./arch/x86/include/generated  -I./include -I./arch/x86/include/uapi -I./arch/x86/include/generated/uapi -I./include/uapi -I./include/generated/uapi -include ./include/linux/compiler-version.h -include ./include/linux/kconfig.h -I./ubuntu/include -include ./include/linux/compiler_types.h -D__KERNEL__ -fmacro-prefix-map=./= -Wall -Wundef -Werror=strict-prototypes -Wno-trigraphs -fno-strict-aliasing -fno-common -fshort-wchar -fno-PIE -Werror=implicit-function-declaration -Werror=implicit-int -Werror=return-type -Wno-format-security -std=gnu11 -mno-sse -mno-mmx -mno-sse2 -mno-3dnow -mno-avx -fcf-protection=none -m64 -falign-jumps=1 -falign-loops=1 -mno-80387 -mno-fp-ret-in-387 -mpreferred-stack-boundary=3 -mskip-rax-setup -mtune=generic -mno-red-zone -mcmodel=kernel -Wno-sign-compare -fno-asynchronous-unwind-tables -mindirect-branch=thunk-extern -mindirect-branch-register -mindirect-branch-cs-prefix -mfunction-return=thunk-extern -fno-jump-tables -mharden-sls=all -fno-delete-null-pointer-checks -Wno-frame-address -Wno-format-truncation -Wno-format-overflow -Wno-address-of-packed-member -O2 -fno-allow-store-data-races -Wframe-larger-than=1024 -fstack-protector-strong -Wimplicit-fallthrough=5 -Wno-main -Wno-unused-but-set-variable -Wno-unused-const-variable -fno-omit-frame-pointer -fno-optimize-sibling-calls -fno-stack-clash-protection -fzero-call-used-regs=used-gpr -pg -mrecord-mcount -mfentry -DCC_USING_FENTRY -Wdeclaration-after-statement -Wvla -Wno-pointer-sign -Wcast-function-type -Wno-stringop-truncation -Wno-stringop-overflow -Wno-restrict -Wno-maybe-uninitialized -Wno-alloc-size-larger-than -fno-strict-overflow -fno-stack-check -fconserve-stack -Werror=date-time -Werror=incompatible-pointer-types -Werror=designated-init -Wno-packed-not-aligned -g -gdwarf-5  -fsanitize=bounds -fsanitize=shift -fsanitize=bool -fsanitize=enum  -DMODULE  -DKBUILD_BASENAME='"ram_201701015"' -DKBUILD_MODNAME='"ram_201701015"' -D__KBUILD_MODNAME=kmod_ram_201701015 -c -o /home/jose/Documentos/SO1_2S2023_201701015/Tarea4/modulo/ram_201701015.o /home/jose/Documentos/SO1_2S2023_201701015/Tarea4/modulo/ram_201701015.c   ; ./tools/objtool/objtool  --hacks=jump_label  --hacks=noinstr     --retpoline  --rethunk  --sls  --stackval  --static-call  --uaccess   --module  /home/jose/Documentos/SO1_2S2023_201701015/Tarea4/modulo/ram_201701015.o
+cmd_/home/jose/Documentos/SO1_2S2023_201701015/Proyecto1/modulos/cpu/cpu_201701015.o := gcc -Wp,-MMD,/home/jose/Documentos/SO1_2S2023_201701015/Proyecto1/modulos/cpu/.cpu_201701015.o.d -nostdinc -I./arch/x86/include -I./arch/x86/include/generated  -I./include -I./arch/x86/include/uapi -I./arch/x86/include/generated/uapi -I./include/uapi -I./include/generated/uapi -include ./include/linux/compiler-version.h -include ./include/linux/kconfig.h -I./ubuntu/include -include ./include/linux/compiler_types.h -D__KERNEL__ -fmacro-prefix-map=./= -Wall -Wundef -Werror=strict-prototypes -Wno-trigraphs -fno-strict-aliasing -fno-common -fshort-wchar -fno-PIE -Werror=implicit-function-declaration -Werror=implicit-int -Werror=return-type -Wno-format-security -std=gnu11 -mno-sse -mno-mmx -mno-sse2 -mno-3dnow -mno-avx -fcf-protection=none -m64 -falign-jumps=1 -falign-loops=1 -mno-80387 -mno-fp-ret-in-387 -mpreferred-stack-boundary=3 -mskip-rax-setup -mtune=generic -mno-red-zone -mcmodel=kernel -Wno-sign-compare -fno-asynchronous-unwind-tables -mindirect-branch=thunk-extern -mindirect-branch-register -mindirect-branch-cs-prefix -mfunction-return=thunk-extern -fno-jump-tables -mharden-sls=all -fno-delete-null-pointer-checks -Wno-frame-address -Wno-format-truncation -Wno-format-overflow -Wno-address-of-packed-member -O2 -fno-allow-store-data-races -Wframe-larger-than=1024 -fstack-protector-strong -Wimplicit-fallthrough=5 -Wno-main -Wno-unused-but-set-variable -Wno-unused-const-variable -fno-omit-frame-pointer -fno-optimize-sibling-calls -fno-stack-clash-protection -fzero-call-used-regs=used-gpr -pg -mrecord-mcount -mfentry -DCC_USING_FENTRY -Wdeclaration-after-statement -Wvla -Wno-pointer-sign -Wcast-function-type -Wno-stringop-truncation -Wno-stringop-overflow -Wno-restrict -Wno-maybe-uninitialized -Wno-alloc-size-larger-than -fno-strict-overflow -fno-stack-check -fconserve-stack -Werror=date-time -Werror=incompatible-pointer-types -Werror=designated-init -Wno-packed-not-aligned -g -gdwarf-5  -fsanitize=bounds -fsanitize=shift -fsanitize=bool -fsanitize=enum  -DMODULE  -DKBUILD_BASENAME='"cpu_201701015"' -DKBUILD_MODNAME='"cpu_201701015"' -D__KBUILD_MODNAME=kmod_cpu_201701015 -c -o /home/jose/Documentos/SO1_2S2023_201701015/Proyecto1/modulos/cpu/cpu_201701015.o /home/jose/Documentos/SO1_2S2023_201701015/Proyecto1/modulos/cpu/cpu_201701015.c   ; ./tools/objtool/objtool  --hacks=jump_label  --hacks=noinstr     --retpoline  --rethunk  --sls  --stackval  --static-call  --uaccess   --module  /home/jose/Documentos/SO1_2S2023_201701015/Proyecto1/modulos/cpu/cpu_201701015.o
 
-source_/home/jose/Documentos/SO1_2S2023_201701015/Tarea4/modulo/ram_201701015.o := /home/jose/Documentos/SO1_2S2023_201701015/Tarea4/modulo/ram_201701015.c
+source_/home/jose/Documentos/SO1_2S2023_201701015/Proyecto1/modulos/cpu/cpu_201701015.o := /home/jose/Documentos/SO1_2S2023_201701015/Proyecto1/modulos/cpu/cpu_201701015.c
 
-deps_/home/jose/Documentos/SO1_2S2023_201701015/Tarea4/modulo/ram_201701015.o := \
+deps_/home/jose/Documentos/SO1_2S2023_201701015/Proyecto1/modulos/cpu/cpu_201701015.o := \
   include/linux/compiler-version.h \
     $(wildcard include/config/CC_VERSION_TEXT) \
   include/linux/kconfig.h \
@@ -675,8 +675,9 @@ deps_/home/jose/Documentos/SO1_2S2023_201701015/Tarea4/modulo/ram_201701015.o :=
     $(wildcard include/config/MODULES_USE_ELF_REL) \
     $(wildcard include/config/MODULES_USE_ELF_RELA) \
   arch/x86/include/asm/orc_types.h \
-  include/linux/proc_fs.h \
-    $(wildcard include/config/PROC_PID_ARCH_STATUS) \
+  include/linux/seq_file.h \
+  include/linux/string_helpers.h \
+  include/linux/ctype.h \
   include/linux/fs.h \
     $(wildcard include/config/READ_ONLY_THP_FOR_FS) \
     $(wildcard include/config/FS_POSIX_ACL) \
@@ -921,9 +922,8 @@ deps_/home/jose/Documentos/SO1_2S2023_201701015/Tarea4/modulo/ram_201701015.o :=
   include/linux/projid.h \
   include/uapi/linux/quota.h \
   include/linux/nfs_fs_i.h \
-  include/linux/seq_file.h \
-  include/linux/string_helpers.h \
-  include/linux/ctype.h \
+  include/linux/proc_fs.h \
+    $(wildcard include/config/PROC_PID_ARCH_STATUS) \
   include/linux/mm.h \
     $(wildcard include/config/HAVE_ARCH_MMAP_RND_BITS) \
     $(wildcard include/config/HAVE_ARCH_MMAP_RND_COMPAT_BITS) \
@@ -996,8 +996,8 @@ deps_/home/jose/Documentos/SO1_2S2023_201701015/Tarea4/modulo/ram_201701015.o :=
     $(wildcard include/config/BALLOON_COMPACTION) \
     $(wildcard include/config/ZSWAP) \
 
-/home/jose/Documentos/SO1_2S2023_201701015/Tarea4/modulo/ram_201701015.o: $(deps_/home/jose/Documentos/SO1_2S2023_201701015/Tarea4/modulo/ram_201701015.o)
+/home/jose/Documentos/SO1_2S2023_201701015/Proyecto1/modulos/cpu/cpu_201701015.o: $(deps_/home/jose/Documentos/SO1_2S2023_201701015/Proyecto1/modulos/cpu/cpu_201701015.o)
 
-$(deps_/home/jose/Documentos/SO1_2S2023_201701015/Tarea4/modulo/ram_201701015.o):
+$(deps_/home/jose/Documentos/SO1_2S2023_201701015/Proyecto1/modulos/cpu/cpu_201701015.o):
 
-/home/jose/Documentos/SO1_2S2023_201701015/Tarea4/modulo/ram_201701015.o: $(wildcard ./tools/objtool/objtool)
+/home/jose/Documentos/SO1_2S2023_201701015/Proyecto1/modulos/cpu/cpu_201701015.o: $(wildcard ./tools/objtool/objtool)
