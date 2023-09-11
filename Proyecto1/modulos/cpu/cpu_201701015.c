@@ -17,14 +17,19 @@ static int CatFile(struct seq_file *f, void *v){
         
     seq_printf(f, "{\n");
     seq_printf(f, "  \"Procesos\": [\n");
-
+    bool y = true;
     for_each_process(task) {
+        if(y){
+                y = false;
+            }else{
+                seq_printf(f, ",\n");
+            }
         seq_printf(f, "    {\n");
         seq_printf(f, "      \"PID\": %d,\n", task->pid);
         seq_printf(f, "      \"Nombre\": \"%s\",\n", task->comm);
         seq_printf(f, "      \"Usuario\": \"%d\",\n", task->cred->uid);
         seq_printf(f, "      \"Estado\": %d,\n", task->__state);
-        unsigned long total_ram_pages = totalram_pages();
+        unsigned long paginas = totalram_pages();
         unsigned long rss;
         if (task->mm)
         {
@@ -34,23 +39,29 @@ static int CatFile(struct seq_file *f, void *v){
         {
             rss = 0;
         }
-        int porcentaje = (rss * 100) / total_ram_pages;
-        seq_printf(f, "      \"RAM\": %d\n", porcentaje);
+        int RamP = (rss * 100) / paginas;
+        seq_printf(f, "      \"RAM\": %d,\n", RamP);
 
         
         seq_printf(f, "      \"Hijos\": [\n");
+        bool x = true;
         list_for_each_entry(task_child, &task->children, sibling) {
+            if(x){
+                x = false;
+            }else{
+                seq_printf(f, ",\n");
+            }
             seq_printf(f, "        {\n");
             seq_printf(f, "          \"PID\": %d,\n", task_child->pid);
             seq_printf(f, "          \"Nombre\": \"%s\",\n", task_child->comm);
             seq_printf(f, "          \"Usuario\": \"%d\",\n", task_child->cred->uid);
             seq_printf(f, "          \"Estado\": %d,\n", task_child->__state);
-            seq_printf(f, "          \"%%RAM\": %lu\n", task_child->mm ? task_child->mm->total_vm : 0);
-            seq_printf(f, "        },\n");
+            seq_printf(f, "          \"RAM\": %lu\n", task_child->mm ? task_child->mm->total_vm : 0);
+            seq_printf(f, "        }");
         }
         seq_printf(f, "      ]\n");
 
-        seq_printf(f, "    },\n");
+        seq_printf(f, "    }\n");
     }
 
     seq_printf(f, "  ]\n");
