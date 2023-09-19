@@ -3,6 +3,7 @@ package main
 import (
 	"bytes"
 	"fmt"
+	"io/ioutil"
 	"log"
 	"net/http"
 	"os"
@@ -13,6 +14,15 @@ import (
 )
 
 func main() {
+	url := "http://localhost:3000/ip"
+	resp, err := http.Get(url)
+	if err != nil {
+		fmt.Println("Error al realizar la solicitud POST:", err)
+		return
+	}
+	defer resp.Body.Close()
+	body, err := ioutil.ReadAll(resp.Body)
+	fmt.Println(body)
 	api()
 	envios()
 	select {}

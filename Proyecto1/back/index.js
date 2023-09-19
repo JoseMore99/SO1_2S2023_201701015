@@ -8,6 +8,14 @@ app.get('/', (req, res) => {
   res.send('¡¡¡Api funcionando!!!');
 });
 
+app.get('/ip',function(req, res) {
+  const ipcliente = req.header('x-forwarded-for')  ||
+						req.socket.remoteAddress;
+  console.log(`La dirección IP del cliente es: ${ipcliente}`);
+  res.send(`La dirección IP del cliente es: ${ipcliente}`);
+
+});
+
 
 app.post('/setram', (req, res) => {
   // Obtiene los datos del cuerpo de la solicitud POST
