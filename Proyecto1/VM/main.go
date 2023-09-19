@@ -22,7 +22,7 @@ func main() {
 	}
 	defer resp.Body.Close()
 	body, err := ioutil.ReadAll(resp.Body)
-	fmt.Println(body)
+	fmt.Println(string(body))
 	api()
 	envios()
 	select {}
