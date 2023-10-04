@@ -1,14 +1,47 @@
-import React from 'react';
+import React, { useState, useEffect } from 'react';
 import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer } from 'recharts';
-
+import axios from 'axios';
+import {selecto} from './Principal';
 
 function History() {
-  const data = [
-    { name: 'Group A', uv: 400 },
-    { name: 'Group B', uv: 300 },
-    { name: 'Group C', uv: 300 },
-    { name: 'Group D', uv: 200 },
-  ];
+  const [inforam, Addinforam] = useState([])
+  const [infocpu, Addinfocpu] = useState([])
+  
+  useEffect(() => {
+    const apiUrl = process.env.REACT_APP_API_URL;
+    var params={ip:selecto}
+    axios.get(apiUrl+'getallram',{params: params}) // Reemplaza con la URL de la API
+      .then(response => {
+        // Haz algo con los datos recibidos
+        var tempo1 = response.data
+        var temp = []
+        tempo1.forEach((element)=>{
+          var tempo2 = {name: String(element.fecha_registro), ram: parseFloat(element.ram_usada) }
+          temp.push(tempo2)
+        })
+        Addinforam(temp)
+      })
+      .catch(error => {
+        // Maneja los errores
+        console.error('Error en la solicitud GET:', error);
+      });
+
+    axios.get(apiUrl+'getallcpu',{params: params}) // Reemplaza con la URL de la API
+      .then(response => {
+        // Haz algo con los datos recibidos
+        var tempo1 = response.data
+        var temp = []
+        tempo1.forEach((element)=>{
+          var tempo2 = {name: String(element.fecha_registro), cpu: parseFloat(element.cpu_usada) }
+          temp.push(tempo2)
+        })
+        Addinfocpu(temp)
+      })
+      .catch(error => {
+        console.error('Error en la solicitud GET:', error);
+      });
+  }, []);
+
   return (
     <div className="History m-2">
       <h1> Historial</h1>
@@ -19,7 +52,7 @@ function History() {
             <LineChart
            width={500}
             height={200}
-            data={data}
+            data={inforam}
             margin={{
               top: 10,
               right: 30,
@@ -32,7 +65,7 @@ function History() {
             <YAxis />
             <Tooltip />
             <Legend/>
-            <Line type="monotone" dataKey="uv" stroke="#8884d8" fill="#8884d8" />
+            <Line type="monotone" dataKey="ram" stroke="#8884d8" fill="#8884d8" />
             </LineChart>
           </ResponsiveContainer>
           </div>
@@ -43,7 +76,7 @@ function History() {
             <LineChart
            width={500}
             height={200}
-            data={data}
+            data={infocpu}
             margin={{
               top: 10,
               right: 30,
@@ -56,7 +89,7 @@ function History() {
             <YAxis />
             <Tooltip />
             <Legend/>
-            <Line type="monotone" dataKey="uv" stroke="#8884d8" fill="#8884d8" />
+            <Line type="monotone" dataKey="cpu" stroke="#8884d8" fill="#8884d8" />
             </LineChart>
           </ResponsiveContainer>
           </div>

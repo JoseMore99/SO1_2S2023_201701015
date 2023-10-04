@@ -6,7 +6,7 @@ import History from './History';
 
 function App() {
   return (
-    <div className="App fixed-top m-2">
+    <div className="App">
       <h1> SOPES 1</h1>
       
       <Router>

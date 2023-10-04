@@ -10,9 +10,9 @@ struct sysinfo i;
 static int CatFile(struct seq_file *f, void *v){
     si_meminfo(&i);
     seq_printf(f, "{\n");
-    seq_printf(f,"\"TotalRAM\":%8lu ,\n", i.totalram*i.mem_unit);
-    seq_printf(f,"\"FreeRam\":%8lu ,\n", i.freeram*i.mem_unit);
-    seq_printf(f,"\"UsedRAM\":%8lu ,\n", ((i.totalram-i.freeram)*i.mem_unit));
+    seq_printf(f,"\"TotalRAM\":%8lu ,\n", (i.totalram*i.mem_unit)>>20);
+    seq_printf(f,"\"FreeRam\":%8lu ,\n", (i.freeram*i.mem_unit)>>20);
+    seq_printf(f,"\"UsedRAM\":%8lu ,\n", ((i.totalram-i.freeram)*i.mem_unit)>>20);
     seq_printf(f,"\"Percentage\": %8lu\n", ((i.totalram*100 - i.freeram*100) / i.totalram));
     seq_printf(f, "}\n");
     return 0;

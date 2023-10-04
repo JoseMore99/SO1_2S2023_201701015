@@ -13,9 +13,32 @@
 static int CatFile(struct seq_file *f, void *v){
     struct task_struct *task;
     struct task_struct *task_child;
+    struct list_head *list;  
+    unsigned long rss,total_ram_pages;
+    total_ram_pages = totalram_pages();
+    if (!total_ram_pages) {
+        pr_err("Memoria no disponible\n");
+        return -EINVAL;
+    }
+    
+    #ifndef CONFIG_MMU
+        pr_err("No se pudo calcular el RSS.\n");
+        return -EINVAL;
+    #endif
+    
+       
+    unsigned long total_cpu_time = jiffies_to_msecs(get_jiffies_64());
+    unsigned long total_usage = 0;
+
+    for_each_process(task) {
+        unsigned long cpu_time = jiffies_to_msecs(task->utime + task->stime);
+        unsigned long cpu_percentage = (cpu_time * 100) / total_cpu_time;
+        total_usage += cpu_percentage;
+    }
     
         
     seq_printf(f, "{\n");
+    seq_printf(f, "\"cpu\":%d,\n", (total_usage * 100) / total_cpu_time);
     seq_printf(f, "  \"Procesos\": [\n");
     bool y = true;
     for_each_process(task) {
@@ -41,8 +64,6 @@ static int CatFile(struct seq_file *f, void *v){
         }
         int RamP = (rss * 100) / paginas;
         seq_printf(f, "      \"RAM\": %d,\n", RamP);
-
-        
         seq_printf(f, "      \"Hijos\": [\n");
         bool x = true;
         list_for_each_entry(task_child, &task->children, sibling) {
@@ -60,7 +81,6 @@ static int CatFile(struct seq_file *f, void *v){
             seq_printf(f, "        }");
         }
         seq_printf(f, "      ]\n");
-
         seq_printf(f, "    }\n");
     }
 

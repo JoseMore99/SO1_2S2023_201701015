@@ -1,0 +1,39 @@
+version: '3'
+services:
+  base:
+    image: "mysql"
+    container_name: 'MYSQL_P1'
+    environment:
+      MYSQL_ROOT_PASSWORD: secret
+    volumes:
+      - base_mysql:/var/lib/mysql      
+    ports:
+      - "3306:3306"
+  backend:
+    image: "josemore99/apinode"
+    container_name: 'BackendNode'
+    environment:
+      DB_USER: root
+      DB_PASSWORD: secret
+      DB_HOST: MYSQL_P1
+      DB_PORT: 3306
+      DB_NAME: biblioteca
+    ports:
+      - "4000:4000"
+    depends_on:
+      - base
+    links:
+      - base
+  frontend:
+    image: "josemore99/webapp"
+    container_name: "FrontReact"
+    environment:
+      URLAPI: "http://backend:4000/"
+    ports:
+      - "3000:3000"
+    depends_on:
+      - backend
+    links:
+      - backend
+volumes:
+  base_mysql: 
