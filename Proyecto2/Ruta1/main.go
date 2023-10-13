@@ -32,6 +32,10 @@ func main() {
 		w.Write(jsonData)
 	}).Methods("GET")
 
+	r.HandleFunc("/data", func(w http.ResponseWriter, r *http.Request) {
+		json.NewEncoder(w).Encode("{message:\"api en golang\"}")
+
+	})
 	// Iniciar el servidor en el puerto 8080
 	fmt.Println("Servidor escuchando en el puerto 8080")
 	http.Handle("/", r)
