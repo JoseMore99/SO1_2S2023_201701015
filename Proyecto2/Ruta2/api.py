@@ -17,13 +17,13 @@ def hola():
     return "<h1>Hola Mundo 201701015</h1>"
 
 
-@app.route("/redisp", methods=['POST'])
+@app.route("/inserts", methods=['POST'])
 def getdb2():
     json_data = json.dumps(request.json)
     r.rpush(os.getenv("DB_key"),json_data)
     return ({'message': 'Data stored successfully'})
 
-@app.route("/redisg", methods=['GET'])
+@app.route("/gets", methods=['GET'])
 def getdb():
     elementos = r.lrange(os.getenv("DB_key"), 0, -1)
     retorno =[]
