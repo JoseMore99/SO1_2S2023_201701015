@@ -27,9 +27,8 @@ const client = redis.createClient({
 
 io.on('connection', (socket) => {
     console.log("Se conecto un cliente");
-    socket.on("key", data => {
+    socket.on("key", async data => {
         console.log(data);
-        setInterval(async () => {
             try {
                 // Search Data in Redis
                 const reply = await client.get("contador_album");
@@ -41,7 +40,7 @@ io.on('connection', (socket) => {
                 console.log(error);
             }
             //io.emit("key", data + " desde el server")
-        }, 500);
+       
     })
 });
 
