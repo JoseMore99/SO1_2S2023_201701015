@@ -1,72 +1,640 @@
 [
     {
-        "carnet": 197145418,
-        "nombre": "Dmitri",
-        "curso": "BD1",
-        "nota": 60,
-        "semestre": "2S",
+        "carnet": 662602693,
+        "nombre": "Levi",
+        "curso": "SO1",
+        "nota": 90,
+        "semestre": "1S",
         "year": 2023
     },
     {
-        "carnet": 720037323,
-        "nombre": "Jenn",
-        "curso": "SA",
-        "nota": 50,
-        "semestre": "2S",
+        "carnet": 244088805,
+        "nombre": "Hana",
+        "curso": "SO1",
+        "nota": 80,
+        "semestre": "1S",
         "year": 2023
     },
     {
-        "carnet": 747077796,
-        "nombre": "Laurella",
-        "curso": "SA",
+        "carnet": 380777737,
+        "nombre": "Kaitlyn",
+        "curso": "LFP",
         "nota": 100,
         "semestre": "2S",
         "year": 2023
     },
     {
-        "carnet": 527084454,
-        "nombre": "Ardene",
-        "curso": "SO1",
+        "carnet": 347746343,
+        "nombre": "Pepillo",
+        "curso": "SA",
         "nota": 60,
-        "semestre": "1S",
-        "year": 2023
-    },
-    {
-        "carnet": 344949675,
-        "nombre": "Enid",
-        "curso": "SO1",
-        "nota": 90,
         "semestre": "2S",
         "year": 2023
     },
     {
-        "carnet": 297898586,
-        "nombre": "Dennie",
+        "carnet": 383194372,
+        "nombre": "Ninnetta",
+        "curso": "SO1",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 220645749,
+        "nombre": "Early",
+        "curso": "AYD1",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 826763380,
+        "nombre": "Zelda",
+        "curso": "BD1",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 393577132,
+        "nombre": "Carin",
+        "curso": "LFP",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 919205019,
+        "nombre": "Loralie",
+        "curso": "LFP",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 128527991,
+        "nombre": "Josey",
         "curso": "SO1",
         "nota": 70,
         "semestre": "1S",
         "year": 2023
     },
     {
-        "carnet": 822528117,
-        "nombre": "Amil",
+        "carnet": 358080112,
+        "nombre": "Lynda",
+        "curso": "SA",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 685548768,
+        "nombre": "Elita",
+        "curso": "BD1",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 806392817,
+        "nombre": "Gaelan",
+        "curso": "BD1",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 619042007,
+        "nombre": "Wilie",
+        "curso": "LFP",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 244088805,
+        "nombre": "Hana",
+        "curso": "SA",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 265594307,
+        "nombre": "Cynthea",
+        "curso": "AYD1",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 291924439,
+        "nombre": "Padraig",
+        "curso": "SA",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 424866996,
+        "nombre": "Bee",
+        "curso": "AYD1",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 719356980,
+        "nombre": "Annabella",
+        "curso": "SA",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 480614550,
+        "nombre": "Edmon",
+        "curso": "AYD1",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 383194372,
+        "nombre": "Ninnetta",
+        "curso": "LFP",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 659004772,
+        "nombre": "Arman",
+        "curso": "LFP",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 638644692,
+        "nombre": "Magdaia",
+        "curso": "LFP",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 619042007,
+        "nombre": "Wilie",
+        "curso": "AYD1",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 360259834,
+        "nombre": "Ludwig",
+        "curso": "SO1",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 174267241,
+        "nombre": "Gloriana",
+        "curso": "SA",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 412166861,
+        "nombre": "Albrecht",
+        "curso": "SO1",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 753852807,
+        "nombre": "Lona",
+        "curso": "AYD1",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 986060975,
+        "nombre": "Wally",
+        "curso": "BD1",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 448091894,
+        "nombre": "Bertine",
+        "curso": "SO1",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 876765632,
+        "nombre": "Carlyle",
+        "curso": "LFP",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 449796052,
+        "nombre": "Shannon",
+        "curso": "LFP",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 405815997,
+        "nombre": "Thatcher",
+        "curso": "SO1",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 157536537,
+        "nombre": "Andee",
+        "curso": "SO1",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 876765632,
+        "nombre": "Carlyle",
         "curso": "SA",
         "nota": 90,
         "semestre": "1S",
         "year": 2023
     },
     {
-        "carnet": 589968929,
-        "nombre": "Dinah",
+        "carnet": 334524696,
+        "nombre": "Andy",
+        "curso": "SO1",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 939066848,
+        "nombre": "Gratia",
+        "curso": "BD1",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 991333831,
+        "nombre": "Wiatt",
+        "curso": "BD1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 219745854,
+        "nombre": "Augusta",
+        "curso": "SA",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 665824318,
+        "nombre": "Shermie",
+        "curso": "SO1",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 688272360,
+        "nombre": "Avram",
+        "curso": "SO1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 849992447,
+        "nombre": "Olva",
         "curso": "LFP",
         "nota": 80,
         "semestre": "2S",
         "year": 2023
     },
     {
-        "carnet": 322533928,
-        "nombre": "Florina",
+        "carnet": 981461624,
+        "nombre": "Ruy",
+        "curso": "BD1",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 822701489,
+        "nombre": "Dre",
         "curso": "SO1",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 921623177,
+        "nombre": "Armstrong",
+        "curso": "BD1",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 424866996,
+        "nombre": "Bee",
+        "curso": "SA",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 600039312,
+        "nombre": "Isadora",
+        "curso": "LFP",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 572935253,
+        "nombre": "Yanaton",
+        "curso": "LFP",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 132312924,
+        "nombre": "Bridie",
+        "curso": "LFP",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 358080112,
+        "nombre": "Lynda",
+        "curso": "SA",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 184230283,
+        "nombre": "Ronnica",
+        "curso": "SO1",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 421349911,
+        "nombre": "Sayers",
+        "curso": "AYD1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 501667413,
+        "nombre": "Ulberto",
+        "curso": "SA",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 197145418,
+        "nombre": "Dmitri",
+        "curso": "LFP",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 743519038,
+        "nombre": "Berke",
+        "curso": "SO1",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 523493744,
+        "nombre": "Clemmie",
+        "curso": "LFP",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 541511437,
+        "nombre": "Desmond",
+        "curso": "SA",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 100434117,
+        "nombre": "Rockwell",
+        "curso": "BD1",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 239409550,
+        "nombre": "Justis",
+        "curso": "SO1",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 103504943,
+        "nombre": "Libbie",
+        "curso": "SA",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 822528117,
+        "nombre": "Amil",
+        "curso": "BD1",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 486523958,
+        "nombre": "Franky",
+        "curso": "LFP",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 753852807,
+        "nombre": "Lona",
+        "curso": "SA",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 839916473,
+        "nombre": "Germayne",
+        "curso": "AYD1",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 546762451,
+        "nombre": "Kenneth",
+        "curso": "AYD1",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 363754148,
+        "nombre": "Bronson",
+        "curso": "LFP",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 864809505,
+        "nombre": "Marta",
+        "curso": "SO1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 810274414,
+        "nombre": "Marven",
+        "curso": "BD1",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 959725697,
+        "nombre": "Tabby",
+        "curso": "SO1",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 867532702,
+        "nombre": "Gaultiero",
+        "curso": "BD1",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 991333831,
+        "nombre": "Wiatt",
+        "curso": "LFP",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 501667413,
+        "nombre": "Ulberto",
+        "curso": "SO1",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 347746343,
+        "nombre": "Pepillo",
+        "curso": "AYD1",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 152669005,
+        "nombre": "Star",
+        "curso": "AYD1",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 812556071,
+        "nombre": "Davin",
+        "curso": "LFP",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 753852807,
+        "nombre": "Lona",
+        "curso": "LFP",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 822701489,
+        "nombre": "Dre",
+        "curso": "SA",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 175687069,
+        "nombre": "Howard",
+        "curso": "AYD1",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 262257789,
+        "nombre": "Verne",
+        "curso": "BD1",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 981461624,
+        "nombre": "Ruy",
+        "curso": "SA",
         "nota": 50,
         "semestre": "2S",
         "year": 2023
@@ -74,8 +642,128 @@
     {
         "carnet": 394254458,
         "nombre": "Vanessa",
-        "curso": "LFP",
+        "curso": "SA",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 186013585,
+        "nombre": "Tillie",
+        "curso": "SA",
         "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 125889158,
+        "nombre": "Flin",
+        "curso": "SO1",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 720282411,
+        "nombre": "Bertie",
+        "curso": "LFP",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 814206852,
+        "nombre": "Pierson",
+        "curso": "SO1",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 486523958,
+        "nombre": "Franky",
+        "curso": "AYD1",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 219745854,
+        "nombre": "Augusta",
+        "curso": "SA",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 245778374,
+        "nombre": "Mark",
+        "curso": "LFP",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 420396698,
+        "nombre": "Debra",
+        "curso": "SO1",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 527084454,
+        "nombre": "Ardene",
+        "curso": "AYD1",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 318444227,
+        "nombre": "Zonda",
+        "curso": "BD1",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 512525672,
+        "nombre": "Alexis",
+        "curso": "AYD1",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 743519038,
+        "nombre": "Berke",
+        "curso": "SA",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 720282411,
+        "nombre": "Bertie",
+        "curso": "SA",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 653138220,
+        "nombre": "Lacie",
+        "curso": "AYD1",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 541511437,
+        "nombre": "Desmond",
+        "curso": "SA",
+        "nota": 70,
         "semestre": "1S",
         "year": 2023
     },
@@ -88,9 +776,929 @@
         "year": 2023
     },
     {
-        "carnet": 720282411,
-        "nombre": "Bertie",
+        "carnet": 872102577,
+        "nombre": "Dionysus",
+        "curso": "AYD1",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 265594307,
+        "nombre": "Cynthea",
+        "curso": "AYD1",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 600039312,
+        "nombre": "Isadora",
+        "curso": "BD1",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 986060975,
+        "nombre": "Wally",
+        "curso": "BD1",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 449796052,
+        "nombre": "Shannon",
+        "curso": "LFP",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 521190741,
+        "nombre": "Vite",
+        "curso": "BD1",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 487616087,
+        "nombre": "Elston",
+        "curso": "LFP",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 822528117,
+        "nombre": "Amil",
+        "curso": "LFP",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 747077796,
+        "nombre": "Laurella",
+        "curso": "LFP",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 959725697,
+        "nombre": "Tabby",
+        "curso": "AYD1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 291924439,
+        "nombre": "Padraig",
+        "curso": "SO1",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 921623177,
+        "nombre": "Armstrong",
+        "curso": "LFP",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 463319794,
+        "nombre": "Vivyanne",
+        "curso": "AYD1",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 350778535,
+        "nombre": "Feodora",
+        "curso": "SO1",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 343415840,
+        "nombre": "Jeralee",
+        "curso": "AYD1",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 501667413,
+        "nombre": "Ulberto",
+        "curso": "SO1",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 157536537,
+        "nombre": "Andee",
+        "curso": "BD1",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 219745854,
+        "nombre": "Augusta",
+        "curso": "SO1",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 549301143,
+        "nombre": "Jaynell",
+        "curso": "AYD1",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 130120054,
+        "nombre": "Dale",
+        "curso": "AYD1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 265953249,
+        "nombre": "Tuck",
+        "curso": "AYD1",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 513618181,
+        "nombre": "Keary",
         "curso": "SA",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 806392817,
+        "nombre": "Gaelan",
+        "curso": "SA",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 753852807,
+        "nombre": "Lona",
+        "curso": "SO1",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 806033097,
+        "nombre": "Daniella",
+        "curso": "LFP",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 647212617,
+        "nombre": "Micheline",
+        "curso": "SA",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 541511437,
+        "nombre": "Desmond",
+        "curso": "SO1",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 919205019,
+        "nombre": "Loralie",
+        "curso": "AYD1",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 701027779,
+        "nombre": "Goober",
+        "curso": "SO1",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 653138220,
+        "nombre": "Lacie",
+        "curso": "SA",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 630098705,
+        "nombre": "Isacco",
+        "curso": "BD1",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 845575822,
+        "nombre": "Rose",
+        "curso": "SO1",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 549301143,
+        "nombre": "Jaynell",
+        "curso": "BD1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 448091894,
+        "nombre": "Bertine",
+        "curso": "BD1",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 665824318,
+        "nombre": "Shermie",
+        "curso": "BD1",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 719356980,
+        "nombre": "Annabella",
+        "curso": "AYD1",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 689489753,
+        "nombre": "Raymund",
+        "curso": "SA",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 619042007,
+        "nombre": "Wilie",
+        "curso": "SA",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 747077796,
+        "nombre": "Laurella",
+        "curso": "SO1",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 487616087,
+        "nombre": "Elston",
+        "curso": "LFP",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 693884033,
+        "nombre": "Thomasa",
+        "curso": "LFP",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 184230283,
+        "nombre": "Ronnica",
+        "curso": "AYD1",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 424866996,
+        "nombre": "Bee",
+        "curso": "SO1",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 783273768,
+        "nombre": "Sarajane",
+        "curso": "AYD1",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 184230283,
+        "nombre": "Ronnica",
+        "curso": "LFP",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 350778535,
+        "nombre": "Feodora",
+        "curso": "BD1",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 986060975,
+        "nombre": "Wally",
+        "curso": "LFP",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 130120054,
+        "nombre": "Dale",
+        "curso": "AYD1",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 546762451,
+        "nombre": "Kenneth",
+        "curso": "SO1",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 807961682,
+        "nombre": "Israel",
+        "curso": "SA",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 933603317,
+        "nombre": "Jamil",
+        "curso": "SA",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 220645749,
+        "nombre": "Early",
+        "curso": "SO1",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 653138220,
+        "nombre": "Lacie",
+        "curso": "BD1",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 521190741,
+        "nombre": "Vite",
+        "curso": "LFP",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 262257789,
+        "nombre": "Verne",
+        "curso": "SA",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 334524696,
+        "nombre": "Andy",
+        "curso": "SO1",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 956757725,
+        "nombre": "Rubia",
+        "curso": "LFP",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 527084454,
+        "nombre": "Ardene",
+        "curso": "AYD1",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 501667413,
+        "nombre": "Ulberto",
+        "curso": "SO1",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 583022797,
+        "nombre": "Mark",
+        "curso": "SO1",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 719356980,
+        "nombre": "Annabella",
+        "curso": "AYD1",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 693605721,
+        "nombre": "Vivienne",
+        "curso": "AYD1",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 921106152,
+        "nombre": "Sarajane",
+        "curso": "BD1",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 874938174,
+        "nombre": "Beryle",
+        "curso": "AYD1",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 420396698,
+        "nombre": "Debra",
+        "curso": "SO1",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 872102577,
+        "nombre": "Dionysus",
+        "curso": "SA",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 782679614,
+        "nombre": "Isa",
+        "curso": "BD1",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 839916473,
+        "nombre": "Germayne",
+        "curso": "LFP",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 737673948,
+        "nombre": "Lorraine",
+        "curso": "BD1",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 701027779,
+        "nombre": "Goober",
+        "curso": "SO1",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 748753076,
+        "nombre": "Clayborn",
+        "curso": "AYD1",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 219745854,
+        "nombre": "Augusta",
+        "curso": "SO1",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 740459963,
+        "nombre": "Carlen",
+        "curso": "SO1",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 719356980,
+        "nombre": "Annabella",
+        "curso": "BD1",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 619042007,
+        "nombre": "Wilie",
+        "curso": "BD1",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 288308774,
+        "nombre": "Sue",
+        "curso": "SO1",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 988885379,
+        "nombre": "Mozelle",
+        "curso": "SO1",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 984966236,
+        "nombre": "Anthea",
+        "curso": "BD1",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 291924439,
+        "nombre": "Padraig",
+        "curso": "AYD1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 665824318,
+        "nombre": "Shermie",
+        "curso": "SO1",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 147906110,
+        "nombre": "Eldon",
+        "curso": "BD1",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 737881542,
+        "nombre": "Evonne",
+        "curso": "SO1",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 121564814,
+        "nombre": "Brana",
+        "curso": "BD1",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 132981489,
+        "nombre": "Virge",
+        "curso": "SO1",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 160865507,
+        "nombre": "Packston",
+        "curso": "BD1",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 297898586,
+        "nombre": "Dennie",
+        "curso": "LFP",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 488409023,
+        "nombre": "Lyndsay",
+        "curso": "SO1",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 527084454,
+        "nombre": "Ardene",
+        "curso": "SO1",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 175687069,
+        "nombre": "Howard",
+        "curso": "SA",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 513618181,
+        "nombre": "Keary",
+        "curso": "SA",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 782679614,
+        "nombre": "Isa",
+        "curso": "AYD1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 665887583,
+        "nombre": "Caleb",
+        "curso": "SO1",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 812556071,
+        "nombre": "Davin",
+        "curso": "BD1",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 685548768,
+        "nombre": "Elita",
+        "curso": "BD1",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 748753076,
+        "nombre": "Clayborn",
+        "curso": "AYD1",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 959842495,
+        "nombre": "Nicola",
+        "curso": "BD1",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 782679614,
+        "nombre": "Isa",
+        "curso": "SO1",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 665824318,
+        "nombre": "Shermie",
+        "curso": "BD1",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 488409023,
+        "nombre": "Lyndsay",
+        "curso": "AYD1",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 720037323,
+        "nombre": "Jenn",
+        "curso": "SO1",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 100434117,
+        "nombre": "Rockwell",
+        "curso": "AYD1",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 463319794,
+        "nombre": "Vivyanne",
+        "curso": "BD1",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 737881542,
+        "nombre": "Evonne",
+        "curso": "SO1",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 747077796,
+        "nombre": "Laurella",
+        "curso": "AYD1",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 512525672,
+        "nombre": "Alexis",
+        "curso": "BD1",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 516471364,
+        "nombre": "Alis",
+        "curso": "LFP",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 807961682,
+        "nombre": "Israel",
+        "curso": "AYD1",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 107791970,
+        "nombre": "Phylys",
+        "curso": "SO1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 956118584,
+        "nombre": "Kessia",
+        "curso": "SA",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 109665985,
+        "nombre": "Hugh",
+        "curso": "AYD1",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 806392817,
+        "nombre": "Gaelan",
+        "curso": "AYD1",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 908897865,
+        "nombre": "Elliot",
+        "curso": "AYD1",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 487616087,
+        "nombre": "Elston",
+        "curso": "LFP",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 656355160,
+        "nombre": "Nealy",
+        "curso": "SO1",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 357956374,
+        "nombre": "Melamie",
+        "curso": "SA",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 783273768,
+        "nombre": "Sarajane",
+        "curso": "AYD1",
         "nota": 50,
         "semestre": "2S",
         "year": 2023
@@ -98,32 +1706,2952 @@
     {
         "carnet": 707883616,
         "nombre": "Neilla",
+        "curso": "LFP",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 932681242,
+        "nombre": "Papagena",
+        "curso": "SO1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 174267241,
+        "nombre": "Gloriana",
+        "curso": "LFP",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 944836025,
+        "nombre": "Sisile",
+        "curso": "BD1",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 265953249,
+        "nombre": "Tuck",
         "curso": "SO1",
         "nota": 80,
         "semestre": "2S",
         "year": 2023
     },
     {
-        "carnet": 583022797,
-        "nombre": "Mark",
+        "carnet": 653852381,
+        "nombre": "Corrianne",
+        "curso": "SA",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 659004772,
+        "nombre": "Arman",
         "curso": "SA",
         "nota": 70,
         "semestre": "1S",
         "year": 2023
     },
     {
-        "carnet": 160865507,
-        "nombre": "Packston",
+        "carnet": 486523958,
+        "nombre": "Franky",
+        "curso": "SO1",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 405815997,
+        "nombre": "Thatcher",
+        "curso": "LFP",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 822528117,
+        "nombre": "Amil",
+        "curso": "SO1",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 157536537,
+        "nombre": "Andee",
+        "curso": "AYD1",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 984966236,
+        "nombre": "Anthea",
+        "curso": "SA",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 121564814,
+        "nombre": "Brana",
+        "curso": "SO1",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 864809505,
+        "nombre": "Marta",
+        "curso": "SA",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 318444227,
+        "nombre": "Zonda",
+        "curso": "SO1",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 638644692,
+        "nombre": "Magdaia",
+        "curso": "SA",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 560070531,
+        "nombre": "Jammie",
+        "curso": "LFP",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 647212617,
+        "nombre": "Micheline",
+        "curso": "AYD1",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 365324968,
+        "nombre": "Rockie",
+        "curso": "BD1",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 437087095,
+        "nombre": "Roscoe",
+        "curso": "SO1",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 783273768,
+        "nombre": "Sarajane",
+        "curso": "SO1",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 405815997,
+        "nombre": "Thatcher",
+        "curso": "LFP",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 583022797,
+        "nombre": "Mark",
+        "curso": "BD1",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 322533928,
+        "nombre": "Florina",
+        "curso": "LFP",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 995845713,
+        "nombre": "Jesus",
+        "curso": "BD1",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 130120054,
+        "nombre": "Dale",
+        "curso": "AYD1",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 560070531,
+        "nombre": "Jammie",
+        "curso": "LFP",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 394254458,
+        "nombre": "Vanessa",
+        "curso": "LFP",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 107791970,
+        "nombre": "Phylys",
+        "curso": "LFP",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 437087095,
+        "nombre": "Roscoe",
+        "curso": "AYD1",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 299456966,
+        "nombre": "Vite",
+        "curso": "AYD1",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 984966236,
+        "nombre": "Anthea",
         "curso": "SA",
         "nota": 90,
         "semestre": "1S",
         "year": 2023
     },
     {
-        "carnet": 991333831,
-        "nombre": "Wiatt",
+        "carnet": 549301143,
+        "nombre": "Jaynell",
+        "curso": "LFP",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 107058263,
+        "nombre": "Kienan",
+        "curso": "BD1",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 318444227,
+        "nombre": "Zonda",
+        "curso": "AYD1",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 299456966,
+        "nombre": "Vite",
+        "curso": "BD1",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 125889158,
+        "nombre": "Flin",
+        "curso": "SA",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 810274414,
+        "nombre": "Marven",
+        "curso": "SA",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 444996089,
+        "nombre": "Alberto",
+        "curso": "LFP",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 864322913,
+        "nombre": "Pepi",
+        "curso": "LFP",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 880454442,
+        "nombre": "Davin",
+        "curso": "AYD1",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 748545134,
+        "nombre": "Archibaldo",
+        "curso": "AYD1",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 449796052,
+        "nombre": "Shannon",
+        "curso": "BD1",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 478782666,
+        "nombre": "Genny",
+        "curso": "SO1",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 689489753,
+        "nombre": "Raymund",
+        "curso": "BD1",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 826763380,
+        "nombre": "Zelda",
+        "curso": "SO1",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 861909077,
+        "nombre": "Byran",
+        "curso": "BD1",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 665887583,
+        "nombre": "Caleb",
+        "curso": "AYD1",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 245778374,
+        "nombre": "Mark",
+        "curso": "AYD1",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 737881542,
+        "nombre": "Evonne",
+        "curso": "AYD1",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 379022765,
+        "nombre": "Audre",
+        "curso": "LFP",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 437087095,
+        "nombre": "Roscoe",
+        "curso": "BD1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 659004772,
+        "nombre": "Arman",
+        "curso": "AYD1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 337743062,
+        "nombre": "Ynez",
+        "curso": "SA",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 138160086,
+        "nombre": "Zeke",
+        "curso": "SO1",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 488024209,
+        "nombre": "Elbertine",
+        "curso": "BD1",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 175687069,
+        "nombre": "Howard",
+        "curso": "LFP",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 138160086,
+        "nombre": "Zeke",
+        "curso": "AYD1",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 688272360,
+        "nombre": "Avram",
+        "curso": "BD1",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 783273768,
+        "nombre": "Sarajane",
+        "curso": "LFP",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 876996194,
+        "nombre": "Billy",
+        "curso": "SO1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 486523958,
+        "nombre": "Franky",
+        "curso": "BD1",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 291924439,
+        "nombre": "Padraig",
         "curso": "AYD1",
         "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 662602693,
+        "nombre": "Levi",
+        "curso": "LFP",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 387444560,
+        "nombre": "Ronnica",
+        "curso": "LFP",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 956518017,
+        "nombre": "Lexy",
+        "curso": "BD1",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 516471364,
+        "nombre": "Alis",
+        "curso": "BD1",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 944836025,
+        "nombre": "Sisile",
+        "curso": "AYD1",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 782679614,
+        "nombre": "Isa",
+        "curso": "SO1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 956757725,
+        "nombre": "Rubia",
+        "curso": "LFP",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 125889158,
+        "nombre": "Flin",
+        "curso": "SO1",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 318444227,
+        "nombre": "Zonda",
+        "curso": "SO1",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 347746343,
+        "nombre": "Pepillo",
+        "curso": "SA",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 902234663,
+        "nombre": "Washington",
+        "curso": "LFP",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 448091894,
+        "nombre": "Bertine",
+        "curso": "SO1",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 393577132,
+        "nombre": "Carin",
+        "curso": "BD1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 995845713,
+        "nombre": "Jesus",
+        "curso": "SO1",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 685548768,
+        "nombre": "Elita",
+        "curso": "AYD1",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 743519038,
+        "nombre": "Berke",
+        "curso": "AYD1",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 269134918,
+        "nombre": "Lila",
+        "curso": "AYD1",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 363754148,
+        "nombre": "Bronson",
+        "curso": "SA",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 681539839,
+        "nombre": "Cosette",
+        "curso": "LFP",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 363754148,
+        "nombre": "Bronson",
+        "curso": "SO1",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 151822392,
+        "nombre": "Lynette",
+        "curso": "AYD1",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 763058986,
+        "nombre": "Sanderson",
+        "curso": "SO1",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 239409550,
+        "nombre": "Justis",
+        "curso": "SA",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 132312924,
+        "nombre": "Bridie",
+        "curso": "AYD1",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 449796052,
+        "nombre": "Shannon",
+        "curso": "SA",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 720282411,
+        "nombre": "Bertie",
+        "curso": "AYD1",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 363754148,
+        "nombre": "Bronson",
+        "curso": "SO1",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 572935253,
+        "nombre": "Yanaton",
+        "curso": "AYD1",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 884247642,
+        "nombre": "Randie",
+        "curso": "SO1",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 442329461,
+        "nombre": "Augusta",
+        "curso": "SO1",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 288308774,
+        "nombre": "Sue",
+        "curso": "BD1",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 685548768,
+        "nombre": "Elita",
+        "curso": "LFP",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 665887583,
+        "nombre": "Caleb",
+        "curso": "SO1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 265594307,
+        "nombre": "Cynthea",
+        "curso": "SA",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 647212617,
+        "nombre": "Micheline",
+        "curso": "BD1",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 120690358,
+        "nombre": "Bari",
+        "curso": "AYD1",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 541511437,
+        "nombre": "Desmond",
+        "curso": "AYD1",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 516471364,
+        "nombre": "Alis",
+        "curso": "AYD1",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 748753076,
+        "nombre": "Clayborn",
+        "curso": "AYD1",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 547036786,
+        "nombre": "Ethelred",
+        "curso": "LFP",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 171028295,
+        "nombre": "Stefa",
+        "curso": "SA",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 318444227,
+        "nombre": "Zonda",
+        "curso": "BD1",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 128527991,
+        "nombre": "Josey",
+        "curso": "SO1",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 480614550,
+        "nombre": "Edmon",
+        "curso": "LFP",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 344949675,
+        "nombre": "Enid",
+        "curso": "AYD1",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 694542269,
+        "nombre": "Riane",
+        "curso": "AYD1",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 437087095,
+        "nombre": "Roscoe",
+        "curso": "LFP",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 527084454,
+        "nombre": "Ardene",
+        "curso": "SA",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 527084454,
+        "nombre": "Ardene",
+        "curso": "AYD1",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 521190741,
+        "nombre": "Vite",
+        "curso": "SO1",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 291924439,
+        "nombre": "Padraig",
+        "curso": "AYD1",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 662602693,
+        "nombre": "Levi",
+        "curso": "BD1",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 931598136,
+        "nombre": "Fania",
+        "curso": "LFP",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 653852381,
+        "nombre": "Corrianne",
+        "curso": "SA",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 230049331,
+        "nombre": "Dal",
+        "curso": "SO1",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 845575822,
+        "nombre": "Rose",
+        "curso": "SO1",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 269134918,
+        "nombre": "Lila",
+        "curso": "BD1",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 239409550,
+        "nombre": "Justis",
+        "curso": "SA",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 265953249,
+        "nombre": "Tuck",
+        "curso": "AYD1",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 487616087,
+        "nombre": "Elston",
+        "curso": "AYD1",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 826763380,
+        "nombre": "Zelda",
+        "curso": "SA",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 944836025,
+        "nombre": "Sisile",
+        "curso": "BD1",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 948077214,
+        "nombre": "Dorene",
+        "curso": "AYD1",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 921623177,
+        "nombre": "Armstrong",
+        "curso": "AYD1",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 239409550,
+        "nombre": "Justis",
+        "curso": "BD1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 360259834,
+        "nombre": "Ludwig",
+        "curso": "SO1",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 822528117,
+        "nombre": "Amil",
+        "curso": "SO1",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 230142496,
+        "nombre": "Den",
+        "curso": "AYD1",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 921623177,
+        "nombre": "Armstrong",
+        "curso": "SA",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 872257459,
+        "nombre": "Mareah",
+        "curso": "LFP",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 689489753,
+        "nombre": "Raymund",
+        "curso": "SA",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 383194372,
+        "nombre": "Ninnetta",
+        "curso": "AYD1",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 244088805,
+        "nombre": "Hana",
+        "curso": "SO1",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 872102577,
+        "nombre": "Dionysus",
+        "curso": "LFP",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 363754148,
+        "nombre": "Bronson",
+        "curso": "SO1",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 737673948,
+        "nombre": "Lorraine",
+        "curso": "SO1",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 832420792,
+        "nombre": "Clywd",
+        "curso": "AYD1",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 665887583,
+        "nombre": "Caleb",
+        "curso": "BD1",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 693884033,
+        "nombre": "Thomasa",
+        "curso": "LFP",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 358080112,
+        "nombre": "Lynda",
+        "curso": "SA",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 130120054,
+        "nombre": "Dale",
+        "curso": "AYD1",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 151822392,
+        "nombre": "Lynette",
+        "curso": "BD1",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 933603317,
+        "nombre": "Jamil",
+        "curso": "SO1",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 299456966,
+        "nombre": "Vite",
+        "curso": "AYD1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 694542269,
+        "nombre": "Riane",
+        "curso": "LFP",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 810274414,
+        "nombre": "Marven",
+        "curso": "SO1",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 219745854,
+        "nombre": "Augusta",
+        "curso": "SO1",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 707883616,
+        "nombre": "Neilla",
+        "curso": "SO1",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 876765632,
+        "nombre": "Carlyle",
+        "curso": "AYD1",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 197145418,
+        "nombre": "Dmitri",
+        "curso": "LFP",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 956518017,
+        "nombre": "Lexy",
+        "curso": "LFP",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 547036786,
+        "nombre": "Ethelred",
+        "curso": "LFP",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 849992447,
+        "nombre": "Olva",
+        "curso": "BD1",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 692028787,
+        "nombre": "Samson",
+        "curso": "SA",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 861909077,
+        "nombre": "Byran",
+        "curso": "BD1",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 959842495,
+        "nombre": "Nicola",
+        "curso": "BD1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 541511437,
+        "nombre": "Desmond",
+        "curso": "AYD1",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 653852381,
+        "nombre": "Corrianne",
+        "curso": "SA",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 806033097,
+        "nombre": "Daniella",
+        "curso": "BD1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 357956374,
+        "nombre": "Melamie",
+        "curso": "BD1",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 845575822,
+        "nombre": "Rose",
+        "curso": "SA",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 826763380,
+        "nombre": "Zelda",
+        "curso": "SO1",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 693884033,
+        "nombre": "Thomasa",
+        "curso": "LFP",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 948077214,
+        "nombre": "Dorene",
+        "curso": "AYD1",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 806033097,
+        "nombre": "Daniella",
+        "curso": "LFP",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 659004772,
+        "nombre": "Arman",
+        "curso": "BD1",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 230049331,
+        "nombre": "Dal",
+        "curso": "SA",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 291924439,
+        "nombre": "Padraig",
+        "curso": "SO1",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 160865507,
+        "nombre": "Packston",
+        "curso": "LFP",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 130120054,
+        "nombre": "Dale",
+        "curso": "LFP",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 701027779,
+        "nombre": "Goober",
+        "curso": "LFP",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 291924439,
+        "nombre": "Padraig",
+        "curso": "SA",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 656552797,
+        "nombre": "Jannel",
+        "curso": "AYD1",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 523493744,
+        "nombre": "Clemmie",
+        "curso": "LFP",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 902234663,
+        "nombre": "Washington",
+        "curso": "LFP",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 103504943,
+        "nombre": "Libbie",
+        "curso": "SA",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 197145418,
+        "nombre": "Dmitri",
+        "curso": "SO1",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 956518017,
+        "nombre": "Lexy",
+        "curso": "AYD1",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 656552797,
+        "nombre": "Jannel",
+        "curso": "BD1",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 737673948,
+        "nombre": "Lorraine",
+        "curso": "AYD1",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 265953249,
+        "nombre": "Tuck",
+        "curso": "BD1",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 619042007,
+        "nombre": "Wilie",
+        "curso": "LFP",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 130120054,
+        "nombre": "Dale",
+        "curso": "AYD1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 322533928,
+        "nombre": "Florina",
+        "curso": "BD1",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 245778374,
+        "nombre": "Mark",
+        "curso": "SA",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 379022765,
+        "nombre": "Audre",
+        "curso": "SO1",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 155742818,
+        "nombre": "Tuckie",
+        "curso": "BD1",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 572935253,
+        "nombre": "Yanaton",
+        "curso": "BD1",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 486523958,
+        "nombre": "Franky",
+        "curso": "BD1",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 109665985,
+        "nombre": "Hugh",
+        "curso": "SO1",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 810274414,
+        "nombre": "Marven",
+        "curso": "SO1",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 405815997,
+        "nombre": "Thatcher",
+        "curso": "BD1",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 864322913,
+        "nombre": "Pepi",
+        "curso": "BD1",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 444996089,
+        "nombre": "Alberto",
+        "curso": "SA",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 956118584,
+        "nombre": "Kessia",
+        "curso": "SO1",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 245778374,
+        "nombre": "Mark",
+        "curso": "LFP",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 360259834,
+        "nombre": "Ludwig",
+        "curso": "SA",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 987816009,
+        "nombre": "Hope",
+        "curso": "SA",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 822528117,
+        "nombre": "Amil",
+        "curso": "SA",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 693605721,
+        "nombre": "Vivienne",
+        "curso": "SO1",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 516471364,
+        "nombre": "Alis",
+        "curso": "AYD1",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 974734286,
+        "nombre": "Evyn",
+        "curso": "BD1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 487616087,
+        "nombre": "Elston",
+        "curso": "SA",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 693605721,
+        "nombre": "Vivienne",
+        "curso": "AYD1",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 444996089,
+        "nombre": "Alberto",
+        "curso": "SO1",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 265594307,
+        "nombre": "Cynthea",
+        "curso": "BD1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 442329461,
+        "nombre": "Augusta",
+        "curso": "LFP",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 806033097,
+        "nombre": "Daniella",
+        "curso": "LFP",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 437087095,
+        "nombre": "Roscoe",
+        "curso": "LFP",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 121564814,
+        "nombre": "Brana",
+        "curso": "LFP",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 106853180,
+        "nombre": "Rowan",
+        "curso": "AYD1",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 864322913,
+        "nombre": "Pepi",
+        "curso": "SO1",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 944836025,
+        "nombre": "Sisile",
+        "curso": "SA",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 861909077,
+        "nombre": "Byran",
+        "curso": "SO1",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 393577132,
+        "nombre": "Carin",
+        "curso": "SO1",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 521190741,
+        "nombre": "Vite",
+        "curso": "AYD1",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 956518017,
+        "nombre": "Lexy",
+        "curso": "SO1",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 269134918,
+        "nombre": "Lila",
+        "curso": "SO1",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 880454442,
+        "nombre": "Davin",
+        "curso": "AYD1",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 186013585,
+        "nombre": "Tillie",
+        "curso": "BD1",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 527084454,
+        "nombre": "Ardene",
+        "curso": "LFP",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 743519038,
+        "nombre": "Berke",
+        "curso": "SA",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 171028295,
+        "nombre": "Stefa",
+        "curso": "AYD1",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 572935253,
+        "nombre": "Yanaton",
+        "curso": "LFP",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 449796052,
+        "nombre": "Shannon",
+        "curso": "AYD1",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 287057907,
+        "nombre": "Mirabelle",
+        "curso": "AYD1",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 740459963,
+        "nombre": "Carlen",
+        "curso": "SO1",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 448091894,
+        "nombre": "Bertine",
+        "curso": "AYD1",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 822528117,
+        "nombre": "Amil",
+        "curso": "LFP",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 653138220,
+        "nombre": "Lacie",
+        "curso": "BD1",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 343415840,
+        "nombre": "Jeralee",
+        "curso": "AYD1",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 220645749,
+        "nombre": "Early",
+        "curso": "SA",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 665824318,
+        "nombre": "Shermie",
+        "curso": "SA",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 424866996,
+        "nombre": "Bee",
+        "curso": "SO1",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 809497652,
+        "nombre": "Eden",
+        "curso": "SA",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 512525672,
+        "nombre": "Alexis",
+        "curso": "LFP",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 554288230,
+        "nombre": "Emlyn",
+        "curso": "SA",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 107791970,
+        "nombre": "Phylys",
+        "curso": "SA",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 239409550,
+        "nombre": "Justis",
+        "curso": "AYD1",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 512525672,
+        "nombre": "Alexis",
+        "curso": "SA",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 421349911,
+        "nombre": "Sayers",
+        "curso": "SO1",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 287057907,
+        "nombre": "Mirabelle",
+        "curso": "BD1",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 589968929,
+        "nombre": "Dinah",
+        "curso": "BD1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 245778374,
+        "nombre": "Mark",
+        "curso": "AYD1",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 478782666,
+        "nombre": "Genny",
+        "curso": "LFP",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 719356980,
+        "nombre": "Annabella",
+        "curso": "SO1",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 152669005,
+        "nombre": "Star",
+        "curso": "SO1",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 265594307,
+        "nombre": "Cynthea",
+        "curso": "BD1",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 959725697,
+        "nombre": "Tabby",
+        "curso": "LFP",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 806033097,
+        "nombre": "Daniella",
+        "curso": "AYD1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 948077214,
+        "nombre": "Dorene",
+        "curso": "BD1",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 244088805,
+        "nombre": "Hana",
+        "curso": "BD1",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 861909077,
+        "nombre": "Byran",
+        "curso": "BD1",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 383194372,
+        "nombre": "Ninnetta",
+        "curso": "BD1",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 487616087,
+        "nombre": "Elston",
+        "curso": "SA",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 809497652,
+        "nombre": "Eden",
+        "curso": "SO1",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 106853180,
+        "nombre": "Rowan",
+        "curso": "BD1",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 867532702,
+        "nombre": "Gaultiero",
+        "curso": "AYD1",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 659004772,
+        "nombre": "Arman",
+        "curso": "LFP",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 685548768,
+        "nombre": "Elita",
+        "curso": "SO1",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 638644692,
+        "nombre": "Magdaia",
+        "curso": "AYD1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 171028295,
+        "nombre": "Stefa",
+        "curso": "AYD1",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 839916473,
+        "nombre": "Germayne",
+        "curso": "LFP",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 157536537,
+        "nombre": "Andee",
+        "curso": "SA",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 288308774,
+        "nombre": "Sue",
+        "curso": "BD1",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 226249478,
+        "nombre": "Karlotta",
+        "curso": "BD1",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 872257459,
+        "nombre": "Mareah",
+        "curso": "BD1",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 720037323,
+        "nombre": "Jenn",
+        "curso": "LFP",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 693605721,
+        "nombre": "Vivienne",
+        "curso": "BD1",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 884247642,
+        "nombre": "Randie",
+        "curso": "LFP",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 226249478,
+        "nombre": "Karlotta",
+        "curso": "LFP",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 477666078,
+        "nombre": "Arturo",
+        "curso": "AYD1",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 981461624,
+        "nombre": "Ruy",
+        "curso": "SO1",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 463319794,
+        "nombre": "Vivyanne",
+        "curso": "AYD1",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 956757725,
+        "nombre": "Rubia",
+        "curso": "SA",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 806498833,
+        "nombre": "Mindy",
+        "curso": "LFP",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 498497796,
+        "nombre": "Rriocard",
+        "curso": "BD1",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 318444227,
+        "nombre": "Zonda",
+        "curso": "AYD1",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 109665985,
+        "nombre": "Hugh",
+        "curso": "AYD1",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 956118584,
+        "nombre": "Kessia",
+        "curso": "SA",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 806498833,
+        "nombre": "Mindy",
+        "curso": "SO1",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 874938174,
+        "nombre": "Beryle",
+        "curso": "LFP",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 521190741,
+        "nombre": "Vite",
+        "curso": "AYD1",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 547036786,
+        "nombre": "Ethelred",
+        "curso": "AYD1",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 477666078,
+        "nombre": "Arturo",
+        "curso": "LFP",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 939066848,
+        "nombre": "Gratia",
+        "curso": "SO1",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 921106152,
+        "nombre": "Sarajane",
+        "curso": "LFP",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 487616087,
+        "nombre": "Elston",
+        "curso": "AYD1",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 318444227,
+        "nombre": "Zonda",
+        "curso": "LFP",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 100434117,
+        "nombre": "Rockwell",
+        "curso": "SO1",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 908897865,
+        "nombre": "Elliot",
+        "curso": "LFP",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 230049331,
+        "nombre": "Dal",
+        "curso": "BD1",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 527084454,
+        "nombre": "Ardene",
+        "curso": "SA",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 872257459,
+        "nombre": "Mareah",
+        "curso": "SO1",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 583022797,
+        "nombre": "Mark",
+        "curso": "SO1",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 880454442,
+        "nombre": "Davin",
+        "curso": "SO1",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 991333831,
+        "nombre": "Wiatt",
+        "curso": "SO1",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 477666078,
+        "nombre": "Arturo",
+        "curso": "SO1",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 130120054,
+        "nombre": "Dale",
+        "curso": "AYD1",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 323111766,
+        "nombre": "Ursuline",
+        "curso": "AYD1",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 864322913,
+        "nombre": "Pepi",
+        "curso": "AYD1",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 387444560,
+        "nombre": "Ronnica",
+        "curso": "SA",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 806392817,
+        "nombre": "Gaelan",
+        "curso": "SA",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 393577132,
+        "nombre": "Carin",
+        "curso": "SO1",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 653852381,
+        "nombre": "Corrianne",
+        "curso": "LFP",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 688272360,
+        "nombre": "Avram",
+        "curso": "SA",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 753852807,
+        "nombre": "Lona",
+        "curso": "BD1",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 748753076,
+        "nombre": "Clayborn",
+        "curso": "BD1",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 902234663,
+        "nombre": "Washington",
+        "curso": "SO1",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 106853180,
+        "nombre": "Rowan",
+        "curso": "LFP",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 988885379,
+        "nombre": "Mozelle",
+        "curso": "SO1",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 157536537,
+        "nombre": "Andee",
+        "curso": "LFP",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 318444227,
+        "nombre": "Zonda",
+        "curso": "BD1",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 861909077,
+        "nombre": "Byran",
+        "curso": "SO1",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 197145418,
+        "nombre": "Dmitri",
+        "curso": "LFP",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 874938174,
+        "nombre": "Beryle",
+        "curso": "BD1",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 583022797,
+        "nombre": "Mark",
+        "curso": "BD1",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 100434117,
+        "nombre": "Rockwell",
+        "curso": "SO1",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 350778535,
+        "nombre": "Feodora",
+        "curso": "AYD1",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 849992447,
+        "nombre": "Olva",
+        "curso": "SA",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 220645749,
+        "nombre": "Early",
+        "curso": "SO1",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 442329461,
+        "nombre": "Augusta",
+        "curso": "SO1",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 299456966,
+        "nombre": "Vite",
+        "curso": "SO1",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 546762451,
+        "nombre": "Kenneth",
+        "curso": "SO1",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 747077796,
+        "nombre": "Laurella",
+        "curso": "LFP",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 424866996,
+        "nombre": "Bee",
+        "curso": "SO1",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 334524696,
+        "nombre": "Andy",
+        "curso": "SO1",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 741118481,
+        "nombre": "Lita",
+        "curso": "SO1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 812556071,
+        "nombre": "Davin",
+        "curso": "SO1",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 132312924,
+        "nombre": "Bridie",
+        "curso": "AYD1",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 488409023,
+        "nombre": "Lyndsay",
+        "curso": "BD1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 323111766,
+        "nombre": "Ursuline",
+        "curso": "AYD1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 867532702,
+        "nombre": "Gaultiero",
+        "curso": "SO1",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 337743062,
+        "nombre": "Ynez",
+        "curso": "SA",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 360259834,
+        "nombre": "Ludwig",
+        "curso": "AYD1",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 357956374,
+        "nombre": "Melamie",
+        "curso": "SA",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 350778535,
+        "nombre": "Feodora",
+        "curso": "AYD1",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 125889158,
+        "nombre": "Flin",
+        "curso": "SA",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 630098705,
+        "nombre": "Isacco",
+        "curso": "LFP",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 488409023,
+        "nombre": "Lyndsay",
+        "curso": "SA",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 448091894,
+        "nombre": "Bertine",
+        "curso": "AYD1",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 921623177,
+        "nombre": "Armstrong",
+        "curso": "BD1",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 839916473,
+        "nombre": "Germayne",
+        "curso": "LFP",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 529708083,
+        "nombre": "Sadye",
+        "curso": "SA",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 807961682,
+        "nombre": "Israel",
+        "curso": "AYD1",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 600039312,
+        "nombre": "Isadora",
+        "curso": "BD1",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 688272360,
+        "nombre": "Avram",
+        "curso": "SO1",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 707883616,
+        "nombre": "Neilla",
+        "curso": "LFP",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 291924439,
+        "nombre": "Padraig",
+        "curso": "LFP",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 782679614,
+        "nombre": "Isa",
+        "curso": "SA",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 444996089,
+        "nombre": "Alberto",
+        "curso": "SO1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 826763380,
+        "nombre": "Zelda",
+        "curso": "AYD1",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 405815997,
+        "nombre": "Thatcher",
+        "curso": "SA",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 991333831,
+        "nombre": "Wiatt",
+        "curso": "LFP",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 986060975,
+        "nombre": "Wally",
+        "curso": "LFP",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 157536537,
+        "nombre": "Andee",
+        "curso": "SO1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 849992447,
+        "nombre": "Olva",
+        "curso": "AYD1",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 653852381,
+        "nombre": "Corrianne",
+        "curso": "SA",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 174267241,
+        "nombre": "Gloriana",
+        "curso": "LFP",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 287057907,
+        "nombre": "Mirabelle",
+        "curso": "BD1",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 763058986,
+        "nombre": "Sanderson",
+        "curso": "BD1",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 109665985,
+        "nombre": "Hugh",
+        "curso": "SO1",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 230049331,
+        "nombre": "Dal",
+        "curso": "BD1",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 239409550,
+        "nombre": "Justis",
+        "curso": "BD1",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 932681242,
+        "nombre": "Papagena",
+        "curso": "LFP",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 872257459,
+        "nombre": "Mareah",
+        "curso": "AYD1",
+        "nota": 90,
         "semestre": "2S",
         "year": 2023
     },
@@ -131,22 +4659,2310 @@
         "carnet": 814206852,
         "nombre": "Pierson",
         "curso": "LFP",
-        "nota": 60,
-        "semestre": "2S",
+        "nota": 50,
+        "semestre": "1S",
         "year": 2023
     },
     {
         "carnet": 453928141,
         "nombre": "Phillis",
+        "curso": "LFP",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 931598136,
+        "nombre": "Fania",
+        "curso": "SO1",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 748753076,
+        "nombre": "Clayborn",
+        "curso": "SO1",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 424866996,
+        "nombre": "Bee",
+        "curso": "SA",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 230142496,
+        "nombre": "Den",
+        "curso": "BD1",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 688272360,
+        "nombre": "Avram",
+        "curso": "SA",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 477666078,
+        "nombre": "Arturo",
+        "curso": "SO1",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 653852381,
+        "nombre": "Corrianne",
+        "curso": "SA",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 184230283,
+        "nombre": "Ronnica",
+        "curso": "SO1",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 908897865,
+        "nombre": "Elliot",
+        "curso": "AYD1",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 527084454,
+        "nombre": "Ardene",
+        "curso": "LFP",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 175687069,
+        "nombre": "Howard",
+        "curso": "SA",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 959842495,
+        "nombre": "Nicola",
+        "curso": "LFP",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 394254458,
+        "nombre": "Vanessa",
+        "curso": "AYD1",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 751668847,
+        "nombre": "Earlie",
+        "curso": "AYD1",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 318444227,
+        "nombre": "Zonda",
+        "curso": "SO1",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 130120054,
+        "nombre": "Dale",
+        "curso": "SO1",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 876996194,
+        "nombre": "Billy",
+        "curso": "AYD1",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 753852807,
+        "nombre": "Lona",
+        "curso": "BD1",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 814206852,
+        "nombre": "Pierson",
+        "curso": "AYD1",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 262257789,
+        "nombre": "Verne",
+        "curso": "SO1",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 549301143,
+        "nombre": "Jaynell",
+        "curso": "BD1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 839916473,
+        "nombre": "Germayne",
+        "curso": "SA",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 939780243,
+        "nombre": "Atlanta",
+        "curso": "SO1",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 292439372,
+        "nombre": "Marissa",
+        "curso": "BD1",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 737881542,
+        "nombre": "Evonne",
+        "curso": "BD1",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 380777737,
+        "nombre": "Kaitlyn",
+        "curso": "BD1",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 184230283,
+        "nombre": "Ronnica",
+        "curso": "AYD1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 358080112,
+        "nombre": "Lynda",
+        "curso": "BD1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 554288230,
+        "nombre": "Emlyn",
+        "curso": "LFP",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 486523958,
+        "nombre": "Franky",
+        "curso": "LFP",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 393577132,
+        "nombre": "Carin",
+        "curso": "SO1",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 753852807,
+        "nombre": "Lona",
+        "curso": "SA",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 437087095,
+        "nombre": "Roscoe",
+        "curso": "SA",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 908897865,
+        "nombre": "Elliot",
+        "curso": "AYD1",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 175687069,
+        "nombre": "Howard",
+        "curso": "LFP",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 244088805,
+        "nombre": "Hana",
+        "curso": "BD1",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 424866996,
+        "nombre": "Bee",
+        "curso": "AYD1",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 673892684,
+        "nombre": "Dyann",
+        "curso": "AYD1",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 741118481,
+        "nombre": "Lita",
+        "curso": "LFP",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 560070531,
+        "nombre": "Jammie",
+        "curso": "AYD1",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 692028787,
+        "nombre": "Samson",
+        "curso": "AYD1",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 665824318,
+        "nombre": "Shermie",
+        "curso": "AYD1",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 665887583,
+        "nombre": "Caleb",
+        "curso": "SO1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 849992447,
+        "nombre": "Olva",
+        "curso": "SA",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 867532702,
+        "nombre": "Gaultiero",
+        "curso": "LFP",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 673892684,
+        "nombre": "Dyann",
+        "curso": "BD1",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 487616087,
+        "nombre": "Elston",
+        "curso": "BD1",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 959842495,
+        "nombre": "Nicola",
+        "curso": "SO1",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 693605721,
+        "nombre": "Vivienne",
+        "curso": "AYD1",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 128527991,
+        "nombre": "Josey",
+        "curso": "LFP",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 197145418,
+        "nombre": "Dmitri",
+        "curso": "SA",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 707883616,
+        "nombre": "Neilla",
+        "curso": "SA",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 719356980,
+        "nombre": "Annabella",
+        "curso": "SO1",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 822701489,
+        "nombre": "Dre",
+        "curso": "AYD1",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 741118481,
+        "nombre": "Lita",
+        "curso": "AYD1",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 151822392,
+        "nombre": "Lynette",
+        "curso": "SO1",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 919205019,
+        "nombre": "Loralie",
+        "curso": "SA",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 463319794,
+        "nombre": "Vivyanne",
+        "curso": "BD1",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 420396698,
+        "nombre": "Debra",
+        "curso": "SA",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 806033097,
+        "nombre": "Daniella",
+        "curso": "AYD1",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 318444227,
+        "nombre": "Zonda",
+        "curso": "BD1",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 186013585,
+        "nombre": "Tillie",
+        "curso": "SO1",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 549301143,
+        "nombre": "Jaynell",
+        "curso": "LFP",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 152669005,
+        "nombre": "Star",
+        "curso": "BD1",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 292439372,
+        "nombre": "Marissa",
+        "curso": "BD1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 826763380,
+        "nombre": "Zelda",
+        "curso": "SO1",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 940657724,
+        "nombre": "Briggs",
+        "curso": "BD1",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 125889158,
+        "nombre": "Flin",
+        "curso": "SO1",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 323111766,
+        "nombre": "Ursuline",
+        "curso": "AYD1",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 737881542,
+        "nombre": "Evonne",
+        "curso": "LFP",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 685548768,
+        "nombre": "Elita",
+        "curso": "AYD1",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 656355160,
+        "nombre": "Nealy",
+        "curso": "BD1",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 814206852,
+        "nombre": "Pierson",
+        "curso": "SO1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 619042007,
+        "nombre": "Wilie",
+        "curso": "SO1",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 106853180,
+        "nombre": "Rowan",
+        "curso": "LFP",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 763058986,
+        "nombre": "Sanderson",
+        "curso": "SA",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 991333831,
+        "nombre": "Wiatt",
+        "curso": "SA",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 688272360,
+        "nombre": "Avram",
+        "curso": "SO1",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 874938174,
+        "nombre": "Beryle",
+        "curso": "LFP",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 546762451,
+        "nombre": "Kenneth",
+        "curso": "AYD1",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 814206852,
+        "nombre": "Pierson",
+        "curso": "AYD1",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 487616087,
+        "nombre": "Elston",
+        "curso": "SA",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 245778374,
+        "nombre": "Mark",
+        "curso": "SO1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 741118481,
+        "nombre": "Lita",
+        "curso": "SO1",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 876996194,
+        "nombre": "Billy",
+        "curso": "SA",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 940657724,
+        "nombre": "Briggs",
+        "curso": "SA",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 487616087,
+        "nombre": "Elston",
+        "curso": "LFP",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 350778535,
+        "nombre": "Feodora",
+        "curso": "BD1",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 783273768,
+        "nombre": "Sarajane",
+        "curso": "AYD1",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 449796052,
+        "nombre": "Shannon",
+        "curso": "SA",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 424866996,
+        "nombre": "Bee",
+        "curso": "SA",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 956118584,
+        "nombre": "Kessia",
+        "curso": "BD1",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 265594307,
+        "nombre": "Cynthea",
+        "curso": "SA",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 872257459,
+        "nombre": "Mareah",
+        "curso": "AYD1",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 100434117,
+        "nombre": "Rockwell",
+        "curso": "SA",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 809497652,
+        "nombre": "Eden",
+        "curso": "LFP",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 560070531,
+        "nombre": "Jammie",
+        "curso": "SA",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 171028295,
+        "nombre": "Stefa",
+        "curso": "SO1",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 506909264,
+        "nombre": "Garnette",
+        "curso": "SA",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 155742818,
+        "nombre": "Tuckie",
+        "curso": "AYD1",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 344949675,
+        "nombre": "Enid",
+        "curso": "SO1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 109803475,
+        "nombre": "Marlyn",
+        "curso": "SA",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 184230283,
+        "nombre": "Ronnica",
+        "curso": "BD1",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 572935253,
+        "nombre": "Yanaton",
+        "curso": "LFP",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 347746343,
+        "nombre": "Pepillo",
+        "curso": "AYD1",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 959842495,
+        "nombre": "Nicola",
+        "curso": "SA",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 656355160,
+        "nombre": "Nealy",
+        "curso": "AYD1",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 673892684,
+        "nombre": "Dyann",
+        "curso": "SA",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 337743062,
+        "nombre": "Ynez",
+        "curso": "BD1",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 463319794,
+        "nombre": "Vivyanne",
+        "curso": "SA",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 665887583,
+        "nombre": "Caleb",
+        "curso": "LFP",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 861909077,
+        "nombre": "Byran",
+        "curso": "SA",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 782679614,
+        "nombre": "Isa",
+        "curso": "LFP",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 560070531,
+        "nombre": "Jammie",
+        "curso": "AYD1",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 147906110,
+        "nombre": "Eldon",
+        "curso": "SA",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 175687069,
+        "nombre": "Howard",
+        "curso": "SO1",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 638644692,
+        "nombre": "Magdaia",
+        "curso": "SO1",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 297898586,
+        "nombre": "Dennie",
+        "curso": "BD1",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 394254458,
+        "nombre": "Vanessa",
+        "curso": "SO1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 160865507,
+        "nombre": "Packston",
+        "curso": "AYD1",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 226249478,
+        "nombre": "Karlotta",
+        "curso": "SO1",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 572935253,
+        "nombre": "Yanaton",
+        "curso": "SA",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 662602693,
+        "nombre": "Levi",
+        "curso": "LFP",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 437087095,
+        "nombre": "Roscoe",
+        "curso": "SO1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 806392817,
+        "nombre": "Gaelan",
+        "curso": "AYD1",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 810274414,
+        "nombre": "Marven",
+        "curso": "SO1",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 719356980,
+        "nombre": "Annabella",
+        "curso": "AYD1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 740459963,
+        "nombre": "Carlen",
         "curso": "SO1",
         "nota": 70,
         "semestre": "1S",
         "year": 2023
     },
     {
-        "carnet": 694542269,
-        "nombre": "Riane",
+        "carnet": 806033097,
+        "nombre": "Daniella",
+        "curso": "AYD1",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 529708083,
+        "nombre": "Sadye",
         "curso": "SA",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 984966236,
+        "nombre": "Anthea",
+        "curso": "SA",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 527084454,
+        "nombre": "Ardene",
+        "curso": "AYD1",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 260092325,
+        "nombre": "Hermina",
+        "curso": "LFP",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 132981489,
+        "nombre": "Virge",
+        "curso": "AYD1",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 363754148,
+        "nombre": "Bronson",
+        "curso": "AYD1",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 673892684,
+        "nombre": "Dyann",
+        "curso": "SA",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 405815997,
+        "nombre": "Thatcher",
+        "curso": "SO1",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 344949675,
+        "nombre": "Enid",
+        "curso": "SA",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 109665985,
+        "nombre": "Hugh",
+        "curso": "LFP",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 226249478,
+        "nombre": "Karlotta",
+        "curso": "BD1",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 933603317,
+        "nombre": "Jamil",
+        "curso": "SO1",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 130120054,
+        "nombre": "Dale",
+        "curso": "SO1",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 337743062,
+        "nombre": "Ynez",
+        "curso": "BD1",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 506909264,
+        "nombre": "Garnette",
+        "curso": "SA",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 297898586,
+        "nombre": "Dennie",
+        "curso": "LFP",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 956518017,
+        "nombre": "Lexy",
+        "curso": "BD1",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 421349911,
+        "nombre": "Sayers",
+        "curso": "SO1",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 412166861,
+        "nombre": "Albrecht",
+        "curso": "LFP",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 991333831,
+        "nombre": "Wiatt",
+        "curso": "SO1",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 554288230,
+        "nombre": "Emlyn",
+        "curso": "BD1",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 107058263,
+        "nombre": "Kienan",
+        "curso": "BD1",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 292439372,
+        "nombre": "Marissa",
+        "curso": "AYD1",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 872102577,
+        "nombre": "Dionysus",
+        "curso": "AYD1",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 549301143,
+        "nombre": "Jaynell",
+        "curso": "SO1",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 956118584,
+        "nombre": "Kessia",
+        "curso": "BD1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 659004772,
+        "nombre": "Arman",
+        "curso": "AYD1",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 673892684,
+        "nombre": "Dyann",
+        "curso": "SO1",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 884247642,
+        "nombre": "Randie",
+        "curso": "LFP",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 109665985,
+        "nombre": "Hugh",
+        "curso": "AYD1",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 737673948,
+        "nombre": "Lorraine",
+        "curso": "SA",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 523493744,
+        "nombre": "Clemmie",
+        "curso": "SA",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 175687069,
+        "nombre": "Howard",
+        "curso": "LFP",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 157536537,
+        "nombre": "Andee",
+        "curso": "SA",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 737881542,
+        "nombre": "Evonne",
+        "curso": "LFP",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 299456966,
+        "nombre": "Vite",
+        "curso": "SA",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 743519038,
+        "nombre": "Berke",
+        "curso": "AYD1",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 944836025,
+        "nombre": "Sisile",
+        "curso": "AYD1",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 876765632,
+        "nombre": "Carlyle",
+        "curso": "AYD1",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 230049331,
+        "nombre": "Dal",
+        "curso": "AYD1",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 832420792,
+        "nombre": "Clywd",
+        "curso": "AYD1",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 872257459,
+        "nombre": "Mareah",
+        "curso": "SA",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 260092325,
+        "nombre": "Hermina",
+        "curso": "AYD1",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 737881542,
+        "nombre": "Evonne",
+        "curso": "BD1",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 720037323,
+        "nombre": "Jenn",
+        "curso": "BD1",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 337743062,
+        "nombre": "Ynez",
+        "curso": "LFP",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 109665985,
+        "nombre": "Hugh",
+        "curso": "SA",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 107058263,
+        "nombre": "Kienan",
+        "curso": "LFP",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 128527991,
+        "nombre": "Josey",
+        "curso": "LFP",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 152669005,
+        "nombre": "Star",
+        "curso": "SO1",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 380777737,
+        "nombre": "Kaitlyn",
+        "curso": "BD1",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 688272360,
+        "nombre": "Avram",
+        "curso": "AYD1",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 956757725,
+        "nombre": "Rubia",
+        "curso": "SO1",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 630098705,
+        "nombre": "Isacco",
+        "curso": "SA",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 365324968,
+        "nombre": "Rockie",
+        "curso": "SA",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 174267241,
+        "nombre": "Gloriana",
+        "curso": "BD1",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 151822392,
+        "nombre": "Lynette",
+        "curso": "AYD1",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 488409023,
+        "nombre": "Lyndsay",
+        "curso": "SA",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 512525672,
+        "nombre": "Alexis",
+        "curso": "AYD1",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 874938174,
+        "nombre": "Beryle",
+        "curso": "BD1",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 448091894,
+        "nombre": "Bertine",
+        "curso": "AYD1",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 501667413,
+        "nombre": "Ulberto",
+        "curso": "LFP",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 810274414,
+        "nombre": "Marven",
+        "curso": "LFP",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 673892684,
+        "nombre": "Dyann",
+        "curso": "AYD1",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 424866996,
+        "nombre": "Bee",
+        "curso": "AYD1",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 956118584,
+        "nombre": "Kessia",
+        "curso": "AYD1",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 861909077,
+        "nombre": "Byran",
+        "curso": "SA",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 130120054,
+        "nombre": "Dale",
+        "curso": "BD1",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 653852381,
+        "nombre": "Corrianne",
+        "curso": "SO1",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 681539839,
+        "nombre": "Cosette",
+        "curso": "LFP",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 832420792,
+        "nombre": "Clywd",
+        "curso": "LFP",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 685548768,
+        "nombre": "Elita",
+        "curso": "AYD1",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 959725697,
+        "nombre": "Tabby",
+        "curso": "SO1",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 125889158,
+        "nombre": "Flin",
+        "curso": "SA",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 506909264,
+        "nombre": "Garnette",
+        "curso": "SA",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 269134918,
+        "nombre": "Lila",
+        "curso": "SA",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 737881542,
+        "nombre": "Evonne",
+        "curso": "LFP",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 547036786,
+        "nombre": "Ethelred",
+        "curso": "SO1",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 444996089,
+        "nombre": "Alberto",
+        "curso": "SO1",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 921106152,
+        "nombre": "Sarajane",
+        "curso": "BD1",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 501667413,
+        "nombre": "Ulberto",
+        "curso": "SO1",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 318444227,
+        "nombre": "Zonda",
+        "curso": "AYD1",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 487616087,
+        "nombre": "Elston",
+        "curso": "AYD1",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 748753076,
+        "nombre": "Clayborn",
+        "curso": "AYD1",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 876765632,
+        "nombre": "Carlyle",
+        "curso": "LFP",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 506909264,
+        "nombre": "Garnette",
+        "curso": "SA",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 547036786,
+        "nombre": "Ethelred",
+        "curso": "AYD1",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 219745854,
+        "nombre": "Augusta",
+        "curso": "SA",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 932681242,
+        "nombre": "Papagena",
+        "curso": "SA",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 956518017,
+        "nombre": "Lexy",
+        "curso": "AYD1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 197145418,
+        "nombre": "Dmitri",
+        "curso": "SO1",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 262257789,
+        "nombre": "Verne",
+        "curso": "BD1",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 876996194,
+        "nombre": "Billy",
+        "curso": "SO1",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 485918641,
+        "nombre": "Beryle",
+        "curso": "BD1",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 939780243,
+        "nombre": "Atlanta",
+        "curso": "SO1",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 244088805,
+        "nombre": "Hana",
+        "curso": "LFP",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 512525672,
+        "nombre": "Alexis",
+        "curso": "SA",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 219745854,
+        "nombre": "Augusta",
+        "curso": "SO1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 688272360,
+        "nombre": "Avram",
+        "curso": "SA",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 405815997,
+        "nombre": "Thatcher",
+        "curso": "SA",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 653852381,
+        "nombre": "Corrianne",
+        "curso": "BD1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 974734286,
+        "nombre": "Evyn",
+        "curso": "LFP",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 393577132,
+        "nombre": "Carin",
+        "curso": "SO1",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 379022765,
+        "nombre": "Audre",
+        "curso": "BD1",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 986060975,
+        "nombre": "Wally",
+        "curso": "LFP",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 219745854,
+        "nombre": "Augusta",
+        "curso": "AYD1",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 919205019,
+        "nombre": "Loralie",
+        "curso": "AYD1",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 737673948,
+        "nombre": "Lorraine",
+        "curso": "SA",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 719356980,
+        "nombre": "Annabella",
+        "curso": "BD1",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 707883616,
+        "nombre": "Neilla",
+        "curso": "AYD1",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 288308774,
+        "nombre": "Sue",
+        "curso": "SO1",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 653138220,
+        "nombre": "Lacie",
+        "curso": "AYD1",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 822701489,
+        "nombre": "Dre",
+        "curso": "SO1",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 516471364,
+        "nombre": "Alis",
+        "curso": "AYD1",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 747077796,
+        "nombre": "Laurella",
+        "curso": "AYD1",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 826763380,
+        "nombre": "Zelda",
+        "curso": "BD1",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 157536537,
+        "nombre": "Andee",
+        "curso": "BD1",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 453928141,
+        "nombre": "Phillis",
+        "curso": "AYD1",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 956757725,
+        "nombre": "Rubia",
+        "curso": "SO1",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 360259834,
+        "nombre": "Ludwig",
+        "curso": "LFP",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 343415840,
+        "nombre": "Jeralee",
+        "curso": "LFP",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 387444560,
+        "nombre": "Ronnica",
+        "curso": "SO1",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 720282411,
+        "nombre": "Bertie",
+        "curso": "AYD1",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 120690358,
+        "nombre": "Bari",
+        "curso": "LFP",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 226249478,
+        "nombre": "Karlotta",
+        "curso": "SA",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 948077214,
+        "nombre": "Dorene",
+        "curso": "SA",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 956518017,
+        "nombre": "Lexy",
+        "curso": "LFP",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 186013585,
+        "nombre": "Tillie",
+        "curso": "SA",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 334524696,
+        "nombre": "Andy",
+        "curso": "SA",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 763058986,
+        "nombre": "Sanderson",
+        "curso": "BD1",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 109803475,
+        "nombre": "Marlyn",
+        "curso": "SO1",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 583022797,
+        "nombre": "Mark",
+        "curso": "SA",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 876765632,
+        "nombre": "Carlyle",
+        "curso": "SA",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 488024209,
+        "nombre": "Elbertine",
+        "curso": "LFP",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 845575822,
+        "nombre": "Rose",
+        "curso": "SO1",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 939066848,
+        "nombre": "Gratia",
+        "curso": "SA",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 719356980,
+        "nombre": "Annabella",
+        "curso": "SO1",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 444996089,
+        "nombre": "Alberto",
+        "curso": "BD1",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 318444227,
+        "nombre": "Zonda",
+        "curso": "SO1",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 822701489,
+        "nombre": "Dre",
+        "curso": "LFP",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 155742818,
+        "nombre": "Tuckie",
+        "curso": "AYD1",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 265594307,
+        "nombre": "Cynthea",
+        "curso": "SA",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 832420792,
+        "nombre": "Clywd",
+        "curso": "LFP",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 810274414,
+        "nombre": "Marven",
+        "curso": "AYD1",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 174267241,
+        "nombre": "Gloriana",
+        "curso": "SA",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 480614550,
+        "nombre": "Edmon",
+        "curso": "AYD1",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 125889158,
+        "nombre": "Flin",
+        "curso": "BD1",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 120690358,
+        "nombre": "Bari",
+        "curso": "BD1",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 849992447,
+        "nombre": "Olva",
+        "curso": "SO1",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 174267241,
+        "nombre": "Gloriana",
+        "curso": "SO1",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 908897865,
+        "nombre": "Elliot",
+        "curso": "SA",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 523493744,
+        "nombre": "Clemmie",
+        "curso": "SA",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 656355160,
+        "nombre": "Nealy",
+        "curso": "LFP",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 932681242,
+        "nombre": "Papagena",
+        "curso": "AYD1",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 453928141,
+        "nombre": "Phillis",
+        "curso": "SA",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 939066848,
+        "nombre": "Gratia",
+        "curso": "SA",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 822701489,
+        "nombre": "Dre",
+        "curso": "LFP",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 256625719,
+        "nombre": "Adele",
+        "curso": "LFP",
         "nota": 100,
         "semestre": "2S",
         "year": 2023
@@ -154,9 +6970,1033 @@
     {
         "carnet": 948077214,
         "nombre": "Dorene",
+        "curso": "LFP",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 265594307,
+        "nombre": "Cynthea",
+        "curso": "AYD1",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 653852381,
+        "nombre": "Corrianne",
+        "curso": "LFP",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 277701503,
+        "nombre": "Maurene",
         "curso": "SA",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 160865507,
+        "nombre": "Packston",
+        "curso": "LFP",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 100434117,
+        "nombre": "Rockwell",
+        "curso": "AYD1",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 130120054,
+        "nombre": "Dale",
+        "curso": "SO1",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 737881542,
+        "nombre": "Evonne",
+        "curso": "LFP",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 753852807,
+        "nombre": "Lona",
+        "curso": "BD1",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 444996089,
+        "nombre": "Alberto",
+        "curso": "BD1",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 880454442,
+        "nombre": "Davin",
+        "curso": "SA",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 138160086,
+        "nombre": "Zeke",
+        "curso": "SO1",
         "nota": 70,
         "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 748545134,
+        "nombre": "Archibaldo",
+        "curso": "LFP",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 956118584,
+        "nombre": "Kessia",
+        "curso": "LFP",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 186013585,
+        "nombre": "Tillie",
+        "curso": "AYD1",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 463319794,
+        "nombre": "Vivyanne",
+        "curso": "AYD1",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 516471364,
+        "nombre": "Alis",
+        "curso": "AYD1",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 600039312,
+        "nombre": "Isadora",
+        "curso": "SO1",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 753852807,
+        "nombre": "Lona",
+        "curso": "LFP",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 806498833,
+        "nombre": "Mindy",
+        "curso": "SO1",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 659004772,
+        "nombre": "Arman",
+        "curso": "SA",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 521190741,
+        "nombre": "Vite",
+        "curso": "LFP",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 948077214,
+        "nombre": "Dorene",
+        "curso": "SO1",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 747077796,
+        "nombre": "Laurella",
+        "curso": "AYD1",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 872257459,
+        "nombre": "Mareah",
+        "curso": "BD1",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 523493744,
+        "nombre": "Clemmie",
+        "curso": "SA",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 807961682,
+        "nombre": "Israel",
+        "curso": "SA",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 694542269,
+        "nombre": "Riane",
+        "curso": "LFP",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 782679614,
+        "nombre": "Isa",
+        "curso": "AYD1",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 380777737,
+        "nombre": "Kaitlyn",
+        "curso": "AYD1",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 737881542,
+        "nombre": "Evonne",
+        "curso": "AYD1",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 420396698,
+        "nombre": "Debra",
+        "curso": "AYD1",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 919205019,
+        "nombre": "Loralie",
+        "curso": "SA",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 477666078,
+        "nombre": "Arturo",
+        "curso": "AYD1",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 995845713,
+        "nombre": "Jesus",
+        "curso": "SO1",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 743519038,
+        "nombre": "Berke",
+        "curso": "BD1",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 506909264,
+        "nombre": "Garnette",
+        "curso": "SO1",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 741118481,
+        "nombre": "Lita",
+        "curso": "SO1",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 589968929,
+        "nombre": "Dinah",
+        "curso": "SA",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 260092325,
+        "nombre": "Hermina",
+        "curso": "LFP",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 449796052,
+        "nombre": "Shannon",
+        "curso": "AYD1",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 806498833,
+        "nombre": "Mindy",
+        "curso": "SA",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 902234663,
+        "nombre": "Washington",
+        "curso": "AYD1",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 747077796,
+        "nombre": "Laurella",
+        "curso": "SA",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 673892684,
+        "nombre": "Dyann",
+        "curso": "SO1",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 919205019,
+        "nombre": "Loralie",
+        "curso": "BD1",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 380777737,
+        "nombre": "Kaitlyn",
+        "curso": "LFP",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 653138220,
+        "nombre": "Lacie",
+        "curso": "SO1",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 138160086,
+        "nombre": "Zeke",
+        "curso": "AYD1",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 175687069,
+        "nombre": "Howard",
+        "curso": "AYD1",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 826763380,
+        "nombre": "Zelda",
+        "curso": "LFP",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 184230283,
+        "nombre": "Ronnica",
+        "curso": "BD1",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 521190741,
+        "nombre": "Vite",
+        "curso": "AYD1",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 287057907,
+        "nombre": "Mirabelle",
+        "curso": "AYD1",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 387444560,
+        "nombre": "Ronnica",
+        "curso": "BD1",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 130120054,
+        "nombre": "Dale",
+        "curso": "SO1",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 318444227,
+        "nombre": "Zonda",
+        "curso": "BD1",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 107058263,
+        "nombre": "Kienan",
+        "curso": "SA",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 908897865,
+        "nombre": "Elliot",
+        "curso": "LFP",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 394254458,
+        "nombre": "Vanessa",
+        "curso": "LFP",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 393577132,
+        "nombre": "Carin",
+        "curso": "BD1",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 720282411,
+        "nombre": "Bertie",
+        "curso": "LFP",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 523493744,
+        "nombre": "Clemmie",
+        "curso": "AYD1",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 488024209,
+        "nombre": "Elbertine",
+        "curso": "AYD1",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 130120054,
+        "nombre": "Dale",
+        "curso": "AYD1",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 424866996,
+        "nombre": "Bee",
+        "curso": "AYD1",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 125889158,
+        "nombre": "Flin",
+        "curso": "AYD1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 956118584,
+        "nombre": "Kessia",
+        "curso": "SO1",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 363754148,
+        "nombre": "Bronson",
+        "curso": "SO1",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 921623177,
+        "nombre": "Armstrong",
+        "curso": "BD1",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 810274414,
+        "nombre": "Marven",
+        "curso": "BD1",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 239409550,
+        "nombre": "Justis",
+        "curso": "LFP",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 665824318,
+        "nombre": "Shermie",
+        "curso": "LFP",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 956757725,
+        "nombre": "Rubia",
+        "curso": "SO1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 357956374,
+        "nombre": "Melamie",
+        "curso": "SA",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 393577132,
+        "nombre": "Carin",
+        "curso": "LFP",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 956757725,
+        "nombre": "Rubia",
+        "curso": "SO1",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 394254458,
+        "nombre": "Vanessa",
+        "curso": "LFP",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 421349911,
+        "nombre": "Sayers",
+        "curso": "BD1",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 230049331,
+        "nombre": "Dal",
+        "curso": "SO1",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 393577132,
+        "nombre": "Carin",
+        "curso": "LFP",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 420396698,
+        "nombre": "Debra",
+        "curso": "BD1",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 547036786,
+        "nombre": "Ethelred",
+        "curso": "BD1",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 277701503,
+        "nombre": "Maurene",
+        "curso": "SO1",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 344949675,
+        "nombre": "Enid",
+        "curso": "AYD1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 751668847,
+        "nombre": "Earlie",
+        "curso": "LFP",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 554288230,
+        "nombre": "Emlyn",
+        "curso": "LFP",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 880454442,
+        "nombre": "Davin",
+        "curso": "SA",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 478782666,
+        "nombre": "Genny",
+        "curso": "LFP",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 809497652,
+        "nombre": "Eden",
+        "curso": "BD1",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 919205019,
+        "nombre": "Loralie",
+        "curso": "SA",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 155742818,
+        "nombre": "Tuckie",
+        "curso": "SO1",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 872102577,
+        "nombre": "Dionysus",
+        "curso": "BD1",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 109803475,
+        "nombre": "Marlyn",
+        "curso": "SA",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 174267241,
+        "nombre": "Gloriana",
+        "curso": "SA",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 291924439,
+        "nombre": "Padraig",
+        "curso": "LFP",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 720282411,
+        "nombre": "Bertie",
+        "curso": "AYD1",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 157536537,
+        "nombre": "Andee",
+        "curso": "LFP",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 956518017,
+        "nombre": "Lexy",
+        "curso": "BD1",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 334524696,
+        "nombre": "Andy",
+        "curso": "SO1",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 861909077,
+        "nombre": "Byran",
+        "curso": "LFP",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 344949675,
+        "nombre": "Enid",
+        "curso": "SO1",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 477666078,
+        "nombre": "Arturo",
+        "curso": "BD1",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 867532702,
+        "nombre": "Gaultiero",
+        "curso": "AYD1",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 748753076,
+        "nombre": "Clayborn",
+        "curso": "SA",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 453928141,
+        "nombre": "Phillis",
+        "curso": "BD1",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 512525672,
+        "nombre": "Alexis",
+        "curso": "SO1",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 444996089,
+        "nombre": "Alberto",
+        "curso": "BD1",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 269134918,
+        "nombre": "Lila",
+        "curso": "SA",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 839916473,
+        "nombre": "Germayne",
+        "curso": "LFP",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 673892684,
+        "nombre": "Dyann",
+        "curso": "LFP",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 919205019,
+        "nombre": "Loralie",
+        "curso": "AYD1",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 737881542,
+        "nombre": "Evonne",
+        "curso": "LFP",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 944836025,
+        "nombre": "Sisile",
+        "curso": "BD1",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 630098705,
+        "nombre": "Isacco",
+        "curso": "SO1",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 394254458,
+        "nombre": "Vanessa",
+        "curso": "AYD1",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 806033097,
+        "nombre": "Daniella",
+        "curso": "SA",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 130120054,
+        "nombre": "Dale",
+        "curso": "BD1",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 358080112,
+        "nombre": "Lynda",
+        "curso": "SA",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 931598136,
+        "nombre": "Fania",
+        "curso": "LFP",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 109665985,
+        "nombre": "Hugh",
+        "curso": "SO1",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 659004772,
+        "nombre": "Arman",
+        "curso": "AYD1",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 477666078,
+        "nombre": "Arturo",
+        "curso": "SO1",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 861909077,
+        "nombre": "Byran",
+        "curso": "BD1",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 138160086,
+        "nombre": "Zeke",
+        "curso": "SO1",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 956757725,
+        "nombre": "Rubia",
+        "curso": "SA",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 486523958,
+        "nombre": "Franky",
+        "curso": "BD1",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 160865507,
+        "nombre": "Packston",
+        "curso": "LFP",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 748545134,
+        "nombre": "Archibaldo",
+        "curso": "SO1",
+        "nota": 90,
+        "semestre": "2S",
         "year": 2023
     }
 ]
