@@ -3,12 +3,13 @@ from flask_cors import CORS
 import redis
 import json
 import os
+import db
 from dotenv import load_dotenv
 load_dotenv()
 
 app= Flask(__name__)
 cors = CORS(app, resources={r"/api/*": {"origins": "*"}})
-r = redis.StrictRedis(host=os.getenv("DB_HOST"), port=os.getenv("DB_PORT"), db=os.getenv("DB_NAME"))
+r = redis.StrictRedis(host=os.getenv("DB_RED_HOST"), port=os.getenv("DB_RED_PORT"), db=os.getenv("DB_RED_NAME"))
 
 print("Api en flask de Jose Moreira")
 
@@ -19,9 +20,20 @@ def hola():
 
 @app.route("/inserts", methods=['POST'])
 def getdb2():
-    json_data = json.dumps(request.json)
+    valoresEstudiuante = request.json
+    #REDIS
+    json_data = json.dumps(valoresEstudiuante)
     r.rpush(os.getenv("DB_key"),json_data)
+    #MYSQL  
+    conexion = db.get_conection()
+    cursor = conexion.cursor()
+    print(valoresEstudiuante)
+    datos = (1,7)
+    cursor.execute("INSERT INTO Estudiantes (carnet,nombre,curso,nota,semestre,anio) VALUES (%s,%s,%s,%s,%s,%s);",datos)
+    conexion.commit()
+    cursor.fetchall()
     return ({'message': 'Data stored successfully'})
+
 
 @app.route("/gets", methods=['GET'])
 def getdb():
