@@ -4,12 +4,16 @@ const http = require('http');
 const server = http.createServer(app);
 const cors = require('cors');
 const redis = require('redis');
+require('dotenv').config();
+const mysql = require('mysql2/promise')
 
 app.use(cors);
 app.use(express.urlencoded({
     extended: true
 }))
 app.use(express.json());
+
+
 
 const { Server } = require('socket.io');
 const io = new Server(server, {
@@ -19,10 +23,34 @@ const io = new Server(server, {
 });
 
 const client = redis.createClient({
-    host: 'localhost', // Dirección del servidor Redis
-    port: 6379,        // Puerto del servidor Redis
-    database: 0,
+    host: process.env.DB_RED_HOST, // Dirección del servidor Redis
+    port: process.env.DB_RED_PORT,        // Puerto del servidor Redis
+    database: DB_RED_NAM,
 });
+
+const infomysql = {
+    db: {
+        host: process.env.DB_MY_HOST,
+        user: process.env.DB_MY_USER,
+        password: process.env.DB_MY_PASS,
+        port: process.env.DB_MY_PORT
+    }
+}
+
+app.get('/getsql', async (req, res) => {
+    const conexion = await mysql.createConnection(config.db)
+    query = "SELECT * FROM Estudiantes"
+    const [results,] = await conexion.execute(sql, [])
+
+    conexion.end(function (err) {
+        if (err) {
+            console.log(err.message);
+            return
+        }
+    });
+    conexion.destroy()
+    res.json(results);
+  });
 
 
 io.on('connection', (socket) => {

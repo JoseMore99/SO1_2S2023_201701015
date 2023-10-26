@@ -85,7 +85,18 @@ function Principal() {
       </div>
       <div className='row'>
         <div className='col'>
-          <h2 className="text-info">Porcentaje de aprobaciond e cursos</h2>
+          <h2 className="text-info">Porcentaje de aprobacion de cursos</h2>
+          <div class="form-group row">
+            <div class="col-sm-10">
+              <input class="form-control form-control-lg" type="text"  placeholder="Curso"/>
+            </div>
+            <div class="col-sm-10">
+              <input class="form-control form-control-lg" type="text" placeholder="Semestre"/>
+            </div>
+            <div class="col-sm-10">
+            <button type="button" class="btn btn-primary btn-lg">Revisar</button>
+            </div>
+          </div>
           <div style={{ width: '100%', height: 300 }} >
             <ResponsiveContainer>
               <PieChart>
@@ -98,6 +109,14 @@ function Principal() {
         </div>
         <div className='col'>
           <h2 className="text-info">Alumnos con mejor promedio</h2>
+          <div class="form-group row">
+            <div class="col-sm-10">
+              <input class="form-control form-control-lg" type="text" placeholder="Semestre"/>
+            </div>
+            <div class="col-sm-10">
+            <button type="button" class="btn btn-primary btn-lg">Revisar</button>
+            </div>
+          </div>
           <div style={{ width: '100%', height: 300 }} >
             <ResponsiveContainer width="100%" height="100%">
               <BarChart
@@ -123,6 +142,14 @@ function Principal() {
         </div>
         <div className='col'>
           <h2 className="text-info"> Cursos con mas alumnos</h2>
+          <div class="form-group row">
+            <div class="col-sm-10">
+              <input class="form-control form-control-lg" type="text" placeholder="Semestre"/>
+            </div>
+            <div class="col-sm-10">
+            <button type="button" class="btn btn-primary btn-lg">Revisar</button>
+            </div>
+          </div>
           <div style={{ width: '100%', height: 300 }} >
             <ResponsiveContainer width="100%" height="100%">
               <BarChart

@@ -46,7 +46,7 @@ func insertData(c *fiber.Ctx) error {
 }
 
 func SendServ(rank Data) {
-	conn, err := grpc.Dial("localhost:3001", grpc.WithTransportCredentials(insecure.NewCredentials()),
+	conn, err := grpc.Dial("localhost:8001", grpc.WithTransportCredentials(insecure.NewCredentials()),
 		grpc.WithBlock())
 	if err != nil {
 		log.Fatalln(err)
@@ -85,7 +85,7 @@ func main() {
 	})
 	app.Post("/insert", insertData)
 
-	err := app.Listen(":3000")
+	err := app.Listen(":8000")
 	if err != nil {
 		return
 	}

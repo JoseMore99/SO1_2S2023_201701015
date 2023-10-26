@@ -18,7 +18,7 @@ def hola():
     return "<h1>Hola Mundo 201701015</h1>"
 
 
-@app.route("/inserts", methods=['POST'])
+@app.route("/insert", methods=['POST'])
 def getdb2():
     valoresEstudiuante = request.json
     #REDIS
@@ -28,7 +28,7 @@ def getdb2():
     conexion = db.get_conection()
     cursor = conexion.cursor()
     print(valoresEstudiuante)
-    datos = (1,7)
+    datos = (valoresEstudiuante.carnet,valoresEstudiuante.nombre,valoresEstudiuante.curso,valoresEstudiuante.nota,valoresEstudiuante.semestre,valoresEstudiuante.year)
     cursor.execute("INSERT INTO Estudiantes (carnet,nombre,curso,nota,semestre,anio) VALUES (%s,%s,%s,%s,%s,%s);",datos)
     conexion.commit()
     cursor.fetchall()

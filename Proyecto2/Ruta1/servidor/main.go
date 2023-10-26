@@ -42,7 +42,7 @@ type server struct {
 }
 
 const (
-	port = ":3001"
+	port = ":8001"
 )
 
 type Data struct {
