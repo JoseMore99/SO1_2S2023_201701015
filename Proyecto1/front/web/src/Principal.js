@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { ResponsiveContainer, PieChart, Pie, Tooltip, Legend } from 'recharts';
 import axios from 'axios';
+require('dotenv').config();
 
 
 export var selecto = ""

@@ -7,7 +7,7 @@ const redis = require('redis');
 require('dotenv').config();
 const mysql = require('mysql2/promise')
 
-app.use(cors());
+app.use(cors);
 app.use(express.urlencoded({
     extended: true
 }))
@@ -29,18 +29,19 @@ const client = redis.createClient({
 });
 
 const infomysql = {
+    db: {
         host: process.env.DB_MY_HOST,
         user: process.env.DB_MY_USER,
-        password: process.env.DB_MY_PASSWORD,
+        password: process.env.DB_MY_PASS,
         port: process.env.DB_MY_PORT,
         database: process.env.DB_MY_NAME
-
+    }
 }
 
 app.get('/getsql', async (req, res) => {
     const conexion = await mysql.createConnection(infomysql)
     query = "SELECT * FROM Estudiantes"
-    const [results,] = await conexion.execute(query, [])
+    const [results,] = await conexion.execute(sql, [])
 
     conexion.end(function (err) {
         if (err) {
@@ -52,76 +53,6 @@ app.get('/getsql', async (req, res) => {
     res.json(results);
   });
 
-app.get('/getsql', async (req, res) => {
-    const conexion = await mysql.createConnection(infomysql)
-    query = "SELECT * FROM Estudiantes"
-    const [results,] = await conexion.execute(query, [])
-
-    conexion.end(function (err) {
-        if (err) {
-            console.log(err.message);
-            return
-        }
-    });
-    conexion.destroy()
-    res.json(results);
-  });
-  app.get('/masAlumnos', async function (req, res) {
-    const conexion = await mysql.createConnection(infomysql)
-    var query = ``
-    if (req.query.sem != '') {
-      query = `SELECT curso AS name, COUNT(carnet) AS value
-      FROM Estudiantes
-      WHERE SEMESTRE = ?
-      GROUP BY curso;`
-    }
-    const [resultados,] = await conexion.execute(query, [req.query.sem])
-    conexion.end(function (err) {
-    });
-    conexion.destroy()
-    console.log(req.query.sem);
-    console.log(resultados);
-    res.send(resultados);
-  });
-  app.get('/mejorpromedio', async function (req, res) {
-    const conexion = await mysql.createConnection(infomysql)
-    var query = ``
-    if (req.query.sem != '') {
-      query = `SELECT carnet AS name, AVG(nota) AS value
-      FROM Estudiantes
-      WHERE SEMESTRE = ?
-      GROUP BY carnet
-      ORDER BY value DESC
-      LIMIT 3;`
-    }
-    const [resultados,] = await conexion.execute(query, [req.query.sem])
-    conexion.end(function (err) {
-    });
-    conexion.destroy()
-    console.log(req.query.sem);
-    console.log(resultados);
-    res.send(resultados);
-  });
-
-  app.get('/aprobados', async function (req, res) {
-    const conexion = await mysql.createConnection(infomysql)
-    var query = ``
-    if (req.query.sem != '') {
-      query = `SELECT COUNT(CASE WHEN nota  >= 60 THEN 1 ELSE NULL END) AS aprobados,
-      COUNT(CASE WHEN nota < 60 THEN 1 ELSE NULL END) AS reprobados
-    FROM Estudiantes
-    WHERE curso = ? 
-      AND semestre  = ?
-    GROUP BY curso, semestre;`
-    }
-    const [resultados,] = await conexion.execute(query, [req.query.cur,req.query.sem])
-    conexion.end(function (err) {
-    });
-    conexion.destroy()
-    console.log(req.query.sem);
-    console.log(resultados);
-    res.send(resultados);
-  });
 
 io.on('connection', (socket) => {
     //console.log("Se conecto un cliente");
