@@ -1,0 +1,35 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: redisdb
+  namespace: so1p2
+  labels:
+    app: redisdb
+spec:
+  selector:
+    matchLabels:
+      role: redisdb
+  replicas: 1
+  template:
+    metadata:
+      labels:
+        role: redisdb
+    spec:
+      containers:
+      - name: redisdb
+        image: redis
+        ports:
+        - containerPort: 6379
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: service-redis
+  namespace: so1p2
+spec:
+  type: LoadBalancer
+  ports:
+  - port: 6379
+    targetPort: 6379
+  selector:
+    role: redisdb

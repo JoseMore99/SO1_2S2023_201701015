@@ -17,7 +17,7 @@ spec:
     spec:           
       containers:
       - name: py-app
-        image: josemore99/py_so1
+        image: josemore99/apir2
         ports:
         - containerPort: 3000
 

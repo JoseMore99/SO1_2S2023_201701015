@@ -83,7 +83,7 @@ func main() {
 			"res": "todo bien",
 		})
 	})
-	app.Post("/insert", insertData)
+	app.Post("/inserts", insertData)
 
 	err := app.Listen(":8000")
 	if err != nil {

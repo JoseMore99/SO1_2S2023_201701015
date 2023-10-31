@@ -1,0 +1,53 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: ruta1
+  namespace: so1p2
+spec:
+  selector:
+    matchLabels:
+      role: ruta1
+  replicas: 1
+  template:
+    metadata:
+      labels:
+        role: ruta1
+        app: ruta1
+
+    spec:
+      containers:
+      - name: grpc-cliente
+        image: josemore99/r1client
+        ports:
+        - containerPort: 8000
+      - name: grpc-server
+        image: josemore99/r1server
+        ports:
+        - containerPort: 8001
+        env:
+        - name: DB_USER
+          value: "root"
+        - name: DB_PASSWORD
+          value: "d4d202a70b"
+        - name: DB_HOST
+          value: "34.29.199.68"
+        - name: DB_PORT
+          value: "3306"
+        - name: DB_NAME
+          value: "Dbsopes"
+  
+---
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: servicio-r1
+  namespace: so1p2
+spec:
+  ports:
+  - port: 8000
+    protocol: TCP
+    targetPort: 8000
+  selector:
+    app: ruta1
+  type: LoadBalancer

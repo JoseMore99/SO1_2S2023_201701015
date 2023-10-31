@@ -92,7 +92,7 @@ app.get('/getsql', async (req, res) => {
       WHERE SEMESTRE = ?
       GROUP BY carnet
       ORDER BY value DESC
-      LIMIT 3;`
+      LIMIT 5;`
     }
     const [resultados,] = await conexion.execute(query, [req.query.sem])
     conexion.end(function (err) {

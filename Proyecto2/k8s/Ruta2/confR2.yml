@@ -1,0 +1,54 @@
+apiVersion: apps/v1  
+kind: Deployment    
+metadata:               
+  name: ruta2
+  namespace: so1p2
+  labels:                              
+    app: ruta2
+spec:    
+  replicas: 1    
+  selector:  
+    matchLabels:                 
+      app: ruta2
+  template:
+    metadata:
+      labels:                    
+        app: ruta2
+    spec: 
+      containers:
+      - name: ruta2
+        image: josemore99/apir2
+        ports:                  
+        - containerPort: 8000 
+        env:
+        - name: DB_RED_HOST
+          value: "34.27.162.217"
+        - name: DB_RED_PORT
+          value: "6379"
+        - name: DB_key
+          value: "Clave"
+        - name: DB_MY_USER
+          value: "root"
+        - name: DB_MY_PASSWORD
+          value: "d4d202a70b"
+        - name: DB_MY_HOST
+          value: "34.29.199.68"
+        - name: DB_MY_PORT
+          value: "3306"
+        - name: DB_MY_NAME
+          value: "Dbsopes"
+
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: servicio-r2
+  namespace: so1p2
+spec:
+  ports:
+  - port: 8000
+    protocol: TCP
+    targetPort: 8000
+  selector:
+    app: ruta2
+  type: LoadBalancer
